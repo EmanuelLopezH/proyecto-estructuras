@@ -19,6 +19,7 @@ export default function NavBar() {
         <Link id="links" href={"/loans"}>
           <p>Loans</p>
         </Link>
+        <img width="48" height="48" src="/github.svg" alt="github" />
       </div>
     </div>
   );

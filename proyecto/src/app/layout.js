@@ -4,7 +4,7 @@ import "./global.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Lib suggest",
+  title: "Lib Suggest App",
   description: "Recomendations based on the loans of any library",
 };
 
