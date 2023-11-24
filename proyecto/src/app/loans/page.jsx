@@ -4,7 +4,7 @@ export default function users() {
   return (
     <div>
       <NavBar></NavBar>
-      <h1>Users Page</h1>
+      <h1>Book Loans</h1>
     </div>
   );
 }

@@ -13,9 +13,8 @@ export default function employees() {
         <TableEmployees EmployeesData={EmployeesData} />
       </div>
       <div className="buttons">
-        <button className="button">Add</button>
-        <button className="button">Edit</button>
-        <button className="button">Delete</button>
+        <button className="button">Hire</button>
+        <button className="button">Fire</button>
       </div>
     </div>
   );

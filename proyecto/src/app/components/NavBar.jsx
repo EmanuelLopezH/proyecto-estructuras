@@ -34,13 +34,13 @@ export default function NavBar() {
           />
         </Link>
         <Link id="links" href={"/employees"}>
-          <p>Employees</p>
+          <p className="link">Employees</p>
         </Link>
         <Link id="links" href={"/books"}>
-          <p>Books</p>
+          <p className="link">Books</p>
         </Link>
         <Link id="links" href={"/loans"}>
-          <p>Loans</p>
+          <p className="link">Loans</p>
         </Link>
         <img
           className="logo"

@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.case {
+  margin: auto;
+  width: 373px;
+  height: 577px;
+  border: 8px solid #5e2b01;
+  background-color: rgba(0, 0, 0, 0.1);
+  margin: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
