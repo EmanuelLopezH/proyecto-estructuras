@@ -1,1 +1,3502 @@
-[{"book_id":236,"author":"A.A. Attanasio","title":"El drag\u00f3n y el unicornio","genre":"Romance","year":1901},{"book_id":134,"author":"A.A. Attanasio","title":"El lobo y la corona","genre":"Action","year":1928},{"book_id":342,"author":"Abraham Stoker","title":"Dr\u00e1cula","genre":"Fiction","year":1934},{"book_id":246,"author":"Adolfo Hitler","title":"Mi Lucha","genre":"Drama","year":1987},{"book_id":452,"author":"Agatha Christie","title":"Diez negritos","genre":"Thriller","year":1973},{"book_id":31,"author":"Agatha Christie","title":"El canto del cisne","genre":"Mistery","year":1913},{"book_id":24,"author":"Agatha Christie","title":"El cuarto Hombre","genre":"Fantasy","year":1971},{"book_id":307,"author":"Agatha Christie","title":"El geranio azul","genre":"Romance","year":1902},{"book_id":458,"author":"Agatha Christie","title":"El misterio de Listerdale","genre":"Science fiction","year":1948},{"book_id":387,"author":"Agatha Christie","title":"El pudding de navidad","genre":"Comedy","year":1997},{"book_id":269,"author":"Agatha Christie","title":"El secreto de Chimneys","genre":"Thriller","year":1930},{"book_id":338,"author":"Agatha Christie","title":"El testigo mudo","genre":"Fantasy","year":1982},{"book_id":23,"author":"Agatha Christie","title":"Hacia cero","genre":"Fantasy","year":1931},{"book_id":227,"author":"Agatha Christie","title":"La muchacha del tren","genre":"Science fiction","year":1964},{"book_id":105,"author":"Agatha Christie","title":"La muerte de Lord Edgware","genre":"Horror","year":1977},{"book_id":243,"author":"Agatha Christie","title":"La puerta del destino","genre":"Fiction","year":1987},{"book_id":191,"author":"Agatha Christie","title":"La venganza de Nofret","genre":"Comedy","year":1982},{"book_id":322,"author":"Agatha Christie","title":"Las Manzanas","genre":"Mistery","year":1956},{"book_id":173,"author":"Agatha Christie","title":"Lingotes de oro","genre":"Comedy","year":1939},{"book_id":13,"author":"Agatha Christie","title":"Los relojes","genre":"Action","year":1933},{"book_id":447,"author":"Agatha Christie","title":"Manchas en el suelo","genre":"Comedy","year":1990},{"book_id":496,"author":"Agatha Christie","title":"Miss Marple y trece problemas","genre":"Romance","year":1970},{"book_id":440,"author":"Agatha Christie","title":"Misterio en el Caribe","genre":"Comedy","year":1948},{"book_id":86,"author":"Agatha Christie","title":"M\u00f3vil versus oportunidad","genre":"Thriller","year":1950},{"book_id":351,"author":"Agatha Christie","title":"Nido de avispas","genre":"Comedy","year":1964},{"book_id":446,"author":"Agatha Christie","title":"Poirot en Egipto","genre":"Fantasy","year":1923},{"book_id":472,"author":"Agatha Christie","title":"Poirot infringe la ley","genre":"Action","year":1916},{"book_id":214,"author":"Agatha Christie","title":"SOS","genre":"Fantasy","year":1931},{"book_id":99,"author":"Agatha Christie","title":"Testigo de cargo","genre":"Action","year":2003},{"book_id":326,"author":"Agatha Christie","title":"Trayectoria de boomerang","genre":"Horror","year":1991},{"book_id":260,"author":"Agatha Christie","title":"\u00daltimo caso de Poirot","genre":"Drama","year":1900},{"book_id":309,"author":"Alan Dean Foster","title":"Alien el octavo pasajero","genre":"Drama","year":1933},{"book_id":189,"author":"Alan Dean Foster","title":"El Krang de los Tar-Aiym","genre":"Thriller","year":1923},{"book_id":111,"author":"Alan Dean Foster","title":"Tragedia en el Dark Star","genre":"Romance","year":1985},{"book_id":456,"author":"Albert Camus","title":"El Hu\u00e9sped","genre":"Comedy","year":1925},{"book_id":234,"author":"Albert Einstein","title":"Este Es Mi Pueblo","genre":"Science fiction","year":1918},{"book_id":289,"author":"Albert Einstein","title":"Mis Creencias","genre":"Fiction","year":1945},{"book_id":285,"author":"Albert Einstein","title":"Sobre la Teor\u00eda de la Relatividad","genre":"Thriller","year":1955},{"book_id":370,"author":"Alejandro Dumas","title":"El conde de Montecristo","genre":"Fantasy","year":1913},{"book_id":120,"author":"Alejandro Dumas","title":"El hombre de la mascara de hierro","genre":"Action","year":1980},{"book_id":480,"author":"Alejandro Dumas","title":"El tulip\u00e1n negro","genre":"Science fiction","year":1964},{"book_id":190,"author":"Alejandro Dumas","title":"El Vizconde de Bragelonne","genre":"Thriller","year":1954},{"book_id":263,"author":"Alejandro Dumas","title":"La Dama de las camelias","genre":"Science fiction","year":1912},{"book_id":413,"author":"Alejandro Dumas","title":"La mujer del collar de terciopelo (mil y un fantasmas)","genre":"Action","year":1946},{"book_id":422,"author":"Alejandro Dumas","title":"La reina Margot","genre":"Fantasy","year":1913},{"book_id":479,"author":"Alejandro Dumas","title":"Los tres mosqueteros","genre":"Fiction","year":1942},{"book_id":131,"author":"Alejandro Dumas","title":"Los tres mosqueteros (continuaci\u00f3n)","genre":"Science fiction","year":1977},{"book_id":251,"author":"Alfonso G\u00f3mez Lobo","title":"Escritos pol\u00edticos de Plat\u00f3n","genre":"Comedy","year":1910},{"book_id":135,"author":"Alvar Nu\u00f1ez Cabeza de Vaca","title":"Naufragios","genre":"Science fiction","year":1917},{"book_id":222,"author":"Alvaro Mutis","title":"Maqroll el Gaviero","genre":"Science fiction","year":2019},{"book_id":95,"author":"Ambrose Bierce","title":"Diccionario del Diablo","genre":"Horror","year":1949},{"book_id":65,"author":"Anne Rice","title":"Pandora","genre":"Mistery","year":1961},{"book_id":69,"author":"Anne Rice","title":"Cronicas Vampiricas 1 - Entrevista con el Vampiro","genre":"Horror","year":1933},{"book_id":332,"author":"Anne Rice","title":"Cronicas Vampiricas 2 - Lestat el Vampiro","genre":"Comedy","year":1988},{"book_id":84,"author":"Anne Rice","title":"Cronicas Vampiricas 3 - La reina de los condenados","genre":"Thriller","year":1972},{"book_id":500,"author":"Anne Rice","title":"La Momia","genre":"Horror","year":1967},{"book_id":106,"author":"An\u00f3nimo","title":"Druidismo","genre":"Fiction","year":1917},{"book_id":279,"author":"An\u00f3nimo","title":"El cantar del M\u00edo Cid","genre":"Fantasy","year":1915},{"book_id":359,"author":"An\u00f3nimo","title":"La leyenda de Gilgamesh","genre":"Horror","year":1908},{"book_id":400,"author":"An\u00f3nimo","title":"Lazarillo de Tormed","genre":"Romance","year":2006},{"book_id":62,"author":"An\u00f3nimo","title":"Memorias \u00edntimas de una Princesa Rusa","genre":"Mistery","year":1955},{"book_id":32,"author":"An\u00f3nimo","title":"Mil y una noches","genre":"Mistery","year":2017},{"book_id":449,"author":"An\u00f3nimo","title":"Posturas del Kamasutra","genre":"Horror","year":1940},{"book_id":258,"author":"An\u00f3nimo","title":"Robin Hood","genre":"Comedy","year":1941},{"book_id":421,"author":"Anthony Burgess","title":"La naranja mec\u00e1nica","genre":"Action","year":1901},{"book_id":349,"author":"Antoine De Saint-Exup\u00e9ry","title":"El principito","genre":"Fiction","year":1982},{"book_id":379,"author":"Ant\u00f3n Chejov","title":"Recopilaci\u00f3n","genre":"Romance","year":1919},{"book_id":463,"author":"Anton Szandor LaVey","title":"La Biblia Sat\u00e1nica","genre":"Action","year":1965},{"book_id":113,"author":"Antonio Bentu\u00e9","title":"Historia de las religiones","genre":"Thriller","year":1946},{"book_id":239,"author":"Antonio Sk\u00e1rmeta","title":"El Cartero de Neruda","genre":"Drama","year":1927},{"book_id":431,"author":"An\u00f3nimo","title":"Aprenda Java como si estuviera en primero","genre":"Romance","year":1972},{"book_id":207,"author":"An\u00f3nimo","title":"Aprenda Lenguaje C como si estuviera en primero","genre":"Fantasy","year":2019},{"book_id":398,"author":"An\u00f3nimo","title":"Aprenda Lenguaje C++ como si estuviera en primero","genre":"Fantasy","year":2009},{"book_id":142,"author":"An\u00f3nimo","title":"Aprenda Linux como si estuviera en primero","genre":"Mistery","year":1948},{"book_id":414,"author":"An\u00f3nimo","title":"Aprenda Servlets como si estuviera en primero","genre":"Comedy","year":2015},{"book_id":47,"author":"An\u00f3nimo","title":"Aprenda Visual Basic como si estuviera de primero","genre":"Drama","year":1939},{"book_id":420,"author":"An\u00f3nimo","title":"Arcanos Mayores","genre":"Fantasy","year":2015},{"book_id":159,"author":"Aristofanes","title":"Las nubes","genre":"Action","year":2006},{"book_id":184,"author":"Aristofanes","title":"Lisistrata","genre":"Thriller","year":1989},{"book_id":193,"author":"Arist\u00f3teles","title":"\u00c9tica a Nicomaco","genre":"Mistery","year":2011},{"book_id":427,"author":"Arist\u00f3teles","title":"La \u00c9tica","genre":"Horror","year":1986},{"book_id":364,"author":"Arist\u00f3teles","title":"La Gran Moral","genre":"Fantasy","year":1958},{"book_id":181,"author":"Arist\u00f3teles","title":"Metaf\u00edsica","genre":"Horror","year":1995},{"book_id":78,"author":"Arist\u00f3teles","title":"Moral a Eudemo","genre":"Mistery","year":1955},{"book_id":303,"author":"Arist\u00f3teles","title":"Po\u00e9tica","genre":"Comedy","year":1991},{"book_id":29,"author":"Arist\u00f3teles","title":"Pol\u00edtica","genre":"Mistery","year":1969},{"book_id":145,"author":"Arkadi y Boris Strugatsky","title":"Decididamente tal vez","genre":"Comedy","year":1903},{"book_id":155,"author":"Arkadi y Boris Strugatsky","title":"Picnic extraterrestre","genre":"Fiction","year":1916},{"book_id":244,"author":"Arkadi Y Boris Strugatsky","title":"Que Dif\u00edcil Es Ser Dios","genre":"Mistery","year":1913},{"book_id":409,"author":"Arthur C. Clarke","title":"2001 - Una odisea espacial","genre":"Action","year":1999},{"book_id":314,"author":"Arthur C. Clarke","title":"2010 - Odisea dos","genre":"Action","year":1962},{"book_id":140,"author":"Arthur C. Clarke","title":"2061 Odisea tres","genre":"Thriller","year":1955},{"book_id":470,"author":"Arthur C. Clarke","title":"3001 Odisea final","genre":"Mistery","year":1941},{"book_id":460,"author":"Arthur C. Clarke","title":"Alba de saturno","genre":"Science fiction","year":1909},{"book_id":453,"author":"Arthur C. Clarke","title":"Alcanza el ma\u00f1ana","genre":"Horror","year":1904},{"book_id":439,"author":"Arthur C. Clarke","title":"Antes del Ed\u00e9n","genre":"Action","year":2014},{"book_id":291,"author":"Arthur C. Clarke","title":"Cita con Rama","genre":"Action","year":1900},{"book_id":276,"author":"Arthur C. Clarke","title":"Claro de Tierra","genre":"Fiction","year":1990},{"book_id":14,"author":"Arthur C. Clarke","title":"Crimen en Marte","genre":"Horror","year":2012},{"book_id":487,"author":"Arthur C. Clarke","title":"Cuentos del planeta tierra","genre":"Comedy","year":1984},{"book_id":324,"author":"Arthur C. Clarke","title":"El centinela","genre":"Thriller","year":1915},{"book_id":217,"author":"Arthur C. Clarke","title":"El fin de la infancia","genre":"Mistery","year":1956},{"book_id":185,"author":"Arthur C. Clarke","title":"El martillo de Dios","genre":"Horror","year":1954},{"book_id":177,"author":"Arthur C. Clarke","title":"El viento del sol","genre":"Romance","year":1993},{"book_id":301,"author":"Arthur C. Clarke","title":"En las profundidades","genre":"Action","year":1997},{"book_id":171,"author":"Arthur C. Clarke","title":"La ciudad y las estrellas","genre":"Science fiction","year":1987},{"book_id":430,"author":"Arthur C. Clarke","title":"Las arenas de Marte","genre":"Comedy","year":1935},{"book_id":378,"author":"Arthur C. Clarke","title":"Masa critica","genre":"Science fiction","year":1994},{"book_id":201,"author":"Arthur C. Clarke","title":"Preludio al espacio","genre":"Action","year":1961},{"book_id":92,"author":"Arthur C. Clarke y Gentry Lee","title":"El jard\u00edn de Rama","genre":"Drama","year":2014},{"book_id":19,"author":"Arthur C. Clarke y Gentry Lee","title":"Rama II","genre":"Fantasy","year":1902},{"book_id":277,"author":"Arthur C. Clarke y Gentry Lee","title":"Rama revelada","genre":"Thriller","year":1998},{"book_id":212,"author":"Arthur C. Clarke y Paul Preuss","title":"Venus Prime IV","genre":"Science fiction","year":1905},{"book_id":147,"author":"Arthur C. Clarke y Paul Preuss","title":"Venus Prime I - Maxima tension","genre":"Horror","year":1990},{"book_id":88,"author":"Arthur C. Clarke y Paul Preuss","title":"Venus Prime II - Torbellino","genre":"Mistery","year":2023},{"book_id":139,"author":"Arthur Conan Doyle","title":"El mundo p\u00e9rdido","genre":"Drama","year":1935},{"book_id":339,"author":"Arthur Conan Doyle","title":"El sabueso de los Baskerville","genre":"Mistery","year":2022},{"book_id":381,"author":"Arthur Conan Doyle","title":"El signo de los cuatro","genre":"Fiction","year":1922},{"book_id":308,"author":"Arthur Conan Doyle","title":"Espanto en las alturas","genre":"Action","year":1906},{"book_id":465,"author":"Arthur Conan Doyle","title":"Estudio escarlata","genre":"Drama","year":1974},{"book_id":455,"author":"Arthur Conan Doyle","title":"La catacumba nueva","genre":"Horror","year":1926},{"book_id":3,"author":"Arthur Conan Doyle","title":"Las aventuras de Sherlock Holmes","genre":"Drama","year":2018},{"book_id":296,"author":"Arthur Conan Doyle","title":"Sherlock Holmes","genre":"Thriller","year":1956},{"book_id":354,"author":"An\u00f3nimo","title":"Astrolog\u00eda celta","genre":"Drama","year":1990},{"book_id":175,"author":"An\u00f3nimo","title":"Astrolog\u00eda general","genre":"Horror","year":1927},{"book_id":495,"author":"August Derleth","title":"Los Peque\u00f1os Monstruos","genre":"Action","year":2003},{"book_id":157,"author":"Benjam\u00edn Parravicini","title":"Profec\u00edas","genre":"Action","year":1985},{"book_id":434,"author":"Betty Dodson","title":"Sexo para uno","genre":"Mistery","year":2020},{"book_id":93,"author":"An\u00f3nimo","title":"Biograf\u00eda de Ernesto Guevara","genre":"Romance","year":1949},{"book_id":28,"author":"Bob Shaw","title":"Los mundos fugitivos","genre":"Action","year":1933},{"book_id":295,"author":"Brian Weiss","title":"El espejo del tiempo","genre":"Thriller","year":1911},{"book_id":361,"author":"Brian Weiss","title":"Los Mensajes de los Sabios","genre":"Romance","year":1949},{"book_id":133,"author":"Brian Weiss","title":"Muchas Vidas Muchos Maestros","genre":"Fantasy","year":1919},{"book_id":108,"author":"Brian Weiss","title":"S\u00f3lo el amor es real","genre":"Drama","year":1987},{"book_id":497,"author":"Bronislaw Malinowski","title":"Crimen y costumbre en la sociedad salvaje","genre":"Fiction","year":2006},{"book_id":388,"author":"Bruce Sterling","title":"La Caza de Hackers","genre":"Mistery","year":1994},{"book_id":141,"author":"C.S. Lewis","title":"Esa horrenda fortaleza","genre":"Thriller","year":1953},{"book_id":318,"author":"Camilo Guevara","title":"hijo del Che","genre":"Science fiction","year":1960},{"book_id":254,"author":"Camilo Jos\u00e9 Cela","title":"La familia de Pascual Duarte","genre":"Fantasy","year":1991},{"book_id":323,"author":"Carl Marx y Federich Engels","title":"Manifiesto del partido comunista","genre":"Mistery","year":1972},{"book_id":101,"author":"Carl Sagan","title":"Contacto","genre":"Drama","year":1975},{"book_id":392,"author":"Carl Sagan","title":"Cosmos","genre":"Drama","year":1991},{"book_id":373,"author":"Carl Sagan","title":"El Cerebro de Broca","genre":"Drama","year":1972},{"book_id":352,"author":"Carl Sagan","title":"La Carga del Escepticismo","genre":"Fiction","year":1926},{"book_id":481,"author":"Carl Sagan","title":"Miles de Millones","genre":"Thriller","year":1976},{"book_id":172,"author":"Carlos Castaneda","title":"El arte de enso\u00f1ar","genre":"Science fiction","year":2018},{"book_id":492,"author":"Carlos Castaneda","title":"El conocimiento silencioso","genre":"Fantasy","year":1956},{"book_id":60,"author":"Carlos Castaneda","title":"El don del \u00e1guila","genre":"Horror","year":1941},{"book_id":119,"author":"Carlos Castaneda","title":"El Fuego Interno","genre":"Mistery","year":1951},{"book_id":394,"author":"Carlos Castaneda","title":"El segundo anillo de poder","genre":"Horror","year":1994},{"book_id":411,"author":"Carlos Castaneda","title":"La rueda del tiempo","genre":"Fantasy","year":1956},{"book_id":358,"author":"Carlos Castaneda","title":"Las ense\u00f1anzas de Don Juan","genre":"Drama","year":1964},{"book_id":335,"author":"Carlos Castaneda","title":"Relatos de poder","genre":"Fiction","year":1974},{"book_id":180,"author":"Carlos Castaneda","title":"Una realidad aparte","genre":"Comedy","year":1925},{"book_id":404,"author":"Carlos Castaneda","title":"Viaje a Ixtlan","genre":"Horror","year":1960},{"book_id":89,"author":"Carlos Montenegro","title":"Hombres sin mujer","genre":"Fiction","year":2012},{"book_id":268,"author":"An\u00f3nimo","title":"Carta del Che a Fidel Castro","genre":"Romance","year":1910},{"book_id":148,"author":"Cecelia Holand","title":"La Muerte de Atila","genre":"Comedy","year":1934},{"book_id":271,"author":"C\u00e9sar Cant\u00fa","title":"Compendio de la Historia Universal","genre":"Drama","year":1905},{"book_id":340,"author":"C\u00e9sar Vallejo","title":"M\u00e1s all\u00e1 de la vida y la muerte","genre":"Science fiction","year":1934},{"book_id":417,"author":"Charles Baudelaire","title":"Las letan\u00edas de Sat\u00e1n","genre":"Fantasy","year":1980},{"book_id":43,"author":"Charles Bukowski","title":"El cartero","genre":"Thriller","year":1985},{"book_id":341,"author":"Charles Bukowski","title":"Pulp","genre":"Action","year":1996},{"book_id":474,"author":"Charles Bukowsky","title":"La senda del perdedor","genre":"Fantasy","year":1991},{"book_id":477,"author":"Charles Darwin","title":"El origen de las especies","genre":"Drama","year":2020},{"book_id":117,"author":"Charles Darwin","title":"Viaje de un naturalista","genre":"Drama","year":1929},{"book_id":386,"author":"Charles Dickens","title":"Cuento de navidad","genre":"Thriller","year":1902},{"book_id":33,"author":"Charles Dickens","title":"David Copperfield","genre":"Fiction","year":1965},{"book_id":425,"author":"Charles Dickens","title":"El grillo del hogar","genre":"Thriller","year":1962},{"book_id":17,"author":"Charles Dickens","title":"El Guardav\u00eda","genre":"Fantasy","year":1930},{"book_id":270,"author":"Charles Dickens","title":"Grandes esperanzas","genre":"Fantasy","year":2009},{"book_id":250,"author":"Charles Dickens","title":"Historia de dos ciudades","genre":"Science fiction","year":1968},{"book_id":327,"author":"Charles Dickens","title":"Historias de fantasmas","genre":"Science fiction","year":1938},{"book_id":377,"author":"Charles Dickens","title":"Oliver Twist","genre":"Horror","year":1951},{"book_id":4,"author":"Charles Perrault","title":"Cuentos","genre":"Fiction","year":1938},{"book_id":478,"author":"Charlotte Bront\u00eb","title":"Jane Eyre","genre":"Drama","year":1945},{"book_id":48,"author":"Choderlos de Laclos","title":"Amistades peligrosas","genre":"Fiction","year":2016},{"book_id":402,"author":"Christian Jacq","title":"El valle de los reyes","genre":"Mistery","year":1911},{"book_id":493,"author":"Christian Jacq","title":"La mujer sabia","genre":"Science fiction","year":1913},{"book_id":162,"author":"Christian Jacq","title":"Lugar de Verdad","genre":"Horror","year":1958},{"book_id":138,"author":"Christian Jacq","title":"Nefer el Silencioso","genre":"Romance","year":1984},{"book_id":154,"author":"Christian Jacq","title":"Paneb el Ardiente","genre":"Horror","year":1982},{"book_id":224,"author":"Christian Jacq","title":"Ramses I El Hijo de la Luz","genre":"Mistery","year":2000},{"book_id":63,"author":"Christine Feehan","title":"Descenso oscuro","genre":"Mistery","year":1928},{"book_id":242,"author":"Christine Feehan","title":"El Pr\u00edncipe oscuro","genre":"Horror","year":1923},{"book_id":137,"author":"Christine Feehan","title":"Magia oscura","genre":"Science fiction","year":1936},{"book_id":491,"author":"An\u00f3nimo","title":"Cibernegocios","genre":"Horror","year":1973},{"book_id":118,"author":"Clark Ashton Smith","title":"Los mundos perdidos","genre":"Thriller","year":2003},{"book_id":213,"author":"Claudio Hern\u00e1ndez","title":"Hackers","genre":"Mistery","year":1921},{"book_id":38,"author":"Clive Barker","title":"Cabal","genre":"Thriller","year":1900},{"book_id":473,"author":"Clive Barker","title":"El Ladr\u00f3n de d\u00edas","genre":"Romance","year":1933},{"book_id":204,"author":"Clive Barker","title":"Libros sangrientos 1","genre":"Drama","year":1942},{"book_id":123,"author":"Clive Barker","title":"Libros sangrientos 2","genre":"Romance","year":2017},{"book_id":202,"author":"Clive Barker","title":"Libros sangrientos 3","genre":"Fantasy","year":1903},{"book_id":405,"author":"Clive Barker","title":"Sangre","genre":"Horror","year":1993},{"book_id":73,"author":"An\u00f3nimo","title":"Conceptos b\u00e1sicos del tarot","genre":"Comedy","year":1965},{"book_id":390,"author":"Cordwainer Smith","title":"En busca de tres mundos","genre":"Action","year":1974},{"book_id":74,"author":"Cordwainer Smith","title":"La dama muerta de Clown Town","genre":"Mistery","year":1936},{"book_id":334,"author":"Cordwainer Smith","title":"Norstrilia","genre":"Romance","year":1932},{"book_id":306,"author":"An\u00f3nimo","title":" Cristalograf\u00eda","genre":"Fiction","year":1952},{"book_id":360,"author":"Dan Brown","title":"El C\u00f3digo Da Vinci","genre":"Action","year":2001},{"book_id":218,"author":"Dan Millman","title":"Inteligencia espiritual","genre":"Drama","year":2002},{"book_id":486,"author":"Daniel Defoe","title":"Robinson Crusoe","genre":"Horror","year":1925},{"book_id":223,"author":"Dante Alighieri","title":"Divina comedia","genre":"Fantasy","year":1973},{"book_id":80,"author":"Dante Alighieri","title":"La Vida Nueva","genre":"Thriller","year":2002},{"book_id":10,"author":"Darren Shan","title":"El tenebroso Cirque du Freak","genre":"Mistery","year":1983},{"book_id":122,"author":"Dashiell Hammett","title":"El Halc\u00f3n Malt\u00e9s","genre":"Mistery","year":1995},{"book_id":317,"author":"David Peat","title":"Sincronicidad","genre":"Comedy","year":1945},{"book_id":389,"author":"Dean Devlin & Roland Emmerich","title":"Stargate","genre":"Thriller","year":1919},{"book_id":169,"author":"Dean R. Koontz","title":"Hogueras Espectrales","genre":"Thriller","year":1929},{"book_id":166,"author":"Dean R. Koontz","title":"Intensidad","genre":"Drama","year":1904},{"book_id":450,"author":"Dean R. Koontz","title":"La M\u00e1scara","genre":"Mistery","year":1997},{"book_id":203,"author":"Dean R. Koontz","title":"Riesgo Mortal","genre":"Horror","year":2022},{"book_id":170,"author":"Dean R. Koontz","title":"Susurros","genre":"Horror","year":1996},{"book_id":229,"author":"Dean R. Koontz","title":"Tictac","genre":"Science fiction","year":1928},{"book_id":18,"author":"Deepak Chopra","title":"El camino de la abundancia","genre":"Comedy","year":2006},{"book_id":94,"author":"Deepak Chopra","title":"El sendero del mago","genre":"Mistery","year":1908},{"book_id":124,"author":"Deepak Chopra","title":"Sincrodestino","genre":"Action","year":1982},{"book_id":216,"author":"Diane Carey","title":"Har\u00e9n","genre":"Horror","year":1953},{"book_id":39,"author":"An\u00f3nimo","title":"Diccionario de los sue\u00f1os","genre":"Horror","year":1970},{"book_id":376,"author":"An\u00f3nimo","title":"Diccionario S\u00e1nscrito","genre":"Drama","year":1948},{"book_id":96,"author":"Diego Maradona","title":"Yo soy el Diego","genre":"Fiction","year":2001},{"book_id":475,"author":"Don Alonso de Ercilla y Z\u00fa\u00f1iga","title":"La Araucana","genre":"Mistery","year":1998},{"book_id":284,"author":"Don Francisco Quevedo","title":"Sue\u00f1os","genre":"Science fiction","year":2023},{"book_id":149,"author":"Douglas Adams","title":"El restaurante del fin del mundo","genre":"Thriller","year":2017},{"book_id":482,"author":"Dyer Wayner","title":"Tus zonas err\u00f3neas","genre":"Thriller","year":1955},{"book_id":311,"author":"Edgar Alan Poe","title":"La M\u00e1scara de la Muerte Roja","genre":"Horror","year":1983},{"book_id":114,"author":"Edgar Allan Poe","title":"Annabel Lee","genre":"Horror","year":2015},{"book_id":221,"author":"Edgar Allan Poe","title":"Berenice","genre":"Fiction","year":1953},{"book_id":344,"author":"Edgar Allan Poe","title":"Coloquio entre monos","genre":"Science fiction","year":2015},{"book_id":259,"author":"Edgar Allan Poe","title":"Cuatro Bestias en Una - El Hombre Camaleopardo","genre":"Science fiction","year":1994},{"book_id":433,"author":"Edgar Allan Poe","title":"El barril de amontillado","genre":"Fantasy","year":1930},{"book_id":12,"author":"Edgar Allan Poe","title":"El coraz\u00f3n delatador","genre":"Mistery","year":2022},{"book_id":367,"author":"Edgar Allan Poe","title":"El cottage de Candor","genre":"Comedy","year":1931},{"book_id":53,"author":"Edgar Allan Poe","title":"El Cuervo","genre":"Horror","year":2002},{"book_id":489,"author":"Edgar Allan Poe","title":"El demonio de la perversidad","genre":"Mistery","year":1920},{"book_id":45,"author":"Edgar Allan Poe","title":"El diablo en el campanario","genre":"Drama","year":1974},{"book_id":305,"author":"Edgar Allan Poe","title":"El entierro prematuro","genre":"Romance","year":2003},{"book_id":152,"author":"Edgar Allan Poe","title":"El Escarabajo de Oro","genre":"Thriller","year":1975},{"book_id":407,"author":"Edgar Allan Poe","title":"El hombre de la multitud","genre":"Action","year":1996},{"book_id":67,"author":"Edgar Allan Poe","title":"El hundimiento de la casa Usher","genre":"Action","year":2018},{"book_id":21,"author":"Edgar Allan Poe","title":"El poder de las palabras","genre":"Thriller","year":1958},{"book_id":369,"author":"Edgar Allan Poe","title":"El pozo y el p\u00e9ndulo","genre":"Fantasy","year":2017},{"book_id":483,"author":"Edgar Allan Poe","title":"El retrato ovalado","genre":"Drama","year":2021},{"book_id":457,"author":"Edgar Allan Poe","title":"Gato negro","genre":"Fantasy","year":2015},{"book_id":299,"author":"Edgar Allan Poe","title":"La carta robada","genre":"Science fiction","year":1964},{"book_id":437,"author":"Edgar Allan Poe","title":"La conversaci\u00f3n de Eiros y Charmion","genre":"Action","year":1953},{"book_id":282,"author":"Edgar Allan Poe","title":"La durmiente","genre":"Horror","year":1986},{"book_id":164,"author":"Edgar Allan Poe","title":"La mascara de la muerte roja","genre":"Drama","year":1910},{"book_id":112,"author":"Edgar Allan Poe","title":"Las campanas","genre":"Fiction","year":1925},{"book_id":418,"author":"Edgar Allan Poe","title":"Leonora","genre":"Thriller","year":2022},{"book_id":266,"author":"Edgar Allan Poe","title":"Ligeia","genre":"Comedy","year":2012},{"book_id":20,"author":"Edgar Allan Poe","title":"Los Cr\u00edmenes de la Rue Morge","genre":"Horror","year":1905},{"book_id":385,"author":"Edgar Allan Poe","title":"Los Hechos en el caso Valdemar","genre":"Drama","year":1933},{"book_id":195,"author":"Edgar Allan Poe","title":"Manuscrito hallado en una botella","genre":"Horror","year":1991},{"book_id":347,"author":"Edgar Allan Poe","title":"Morella","genre":"Drama","year":1939},{"book_id":240,"author":"Edgar Allan Poe","title":"Revelaci\u00f3n mesm\u00e9rica","genre":"Science fiction","year":1962},{"book_id":30,"author":"Edgar Allan Poe","title":"Silencio","genre":"Science fiction","year":1966},{"book_id":209,"author":"Edgar Allan Poe","title":"Un descenso al maelstrom","genre":"Fantasy","year":1905},{"book_id":444,"author":"Edgar Allan Poe","title":"Un sue\u00f1o en un sue\u00f1o","genre":"Romance","year":1961},{"book_id":412,"author":"Edgar Allan Poe","title":"Una historia de las monta\u00f1as Ragged","genre":"Action","year":2022},{"book_id":274,"author":"Edgar Allan Poe","title":"William Wilson","genre":"Romance","year":1987},{"book_id":199,"author":"Edgar Rice Burroughs","title":"Tarz\u00e1n el se\u00f1or de la jungla","genre":"Fantasy","year":1944},{"book_id":451,"author":"Eduardo Galeano","title":"D\u00edas y Noches de Amor y de Guerra","genre":"Action","year":1935},{"book_id":383,"author":"Eduardo Galeano","title":"Diccionario del Nuevo Orden Mundial","genre":"Science fiction","year":2010},{"book_id":59,"author":"Eduardo Galeano","title":"El derecho al delirio","genre":"Fiction","year":1987},{"book_id":382,"author":"Eduardo Galeano","title":"El Descubrimiento que Todav\u00eda no Fue","genre":"Science fiction","year":2013},{"book_id":52,"author":"Eduardo Galeano","title":"El f\u00fatbol a sol y sombra","genre":"Comedy","year":1954},{"book_id":83,"author":"Eduardo Galeano","title":"El Libro de Los Abrazos","genre":"Horror","year":1930},{"book_id":315,"author":"Eduardo Galeano","title":"El Ni\u00f1o Perdido en la Intemperie","genre":"Mistery","year":1948},{"book_id":423,"author":"Eduardo Galeano","title":"El Nombre Encontrado","genre":"Science fiction","year":1986},{"book_id":325,"author":"Eduardo Galeano","title":"La guerra","genre":"Mistery","year":1939},{"book_id":319,"author":"Eduardo Galeano","title":"La Teor\u00eda del Fin de la Historia","genre":"Drama","year":1957},{"book_id":40,"author":"Eduardo Galeano","title":"Las venas abiertas de Am\u00e9rica Latina","genre":"Drama","year":1927},{"book_id":365,"author":"Eduardo Galeano","title":"Los Cursos de la Facultad de Impunidades","genre":"Comedy","year":1967},{"book_id":287,"author":"Eduardo Mendoza","title":"El misterio de la cripta embrujada","genre":"Thriller","year":1940},{"book_id":329,"author":"Edward de Bono","title":"Seis sombreros para pensar","genre":"Mistery","year":1956},{"book_id":226,"author":"Edwin Brickill","title":"Quinientos millones de siglos despu\u00e9s","genre":"Science fiction","year":1928},{"book_id":255,"author":"An\u00f3nimo","title":"Ejercicios Diarios Para Alargamiento Del Pene","genre":"Thriller","year":1997},{"book_id":194,"author":"An\u00f3nimo","title":"El Gran Libro de los Chakras","genre":"Fiction","year":1963},{"book_id":192,"author":"An\u00f3nimo","title":"El kybalion","genre":"Fiction","year":1940},{"book_id":267,"author":"An\u00f3nimo","title":"El libro del Fenshui","genre":"Drama","year":1955},{"book_id":304,"author":"Emilio Salgari","title":"Los tigres de la Malasia","genre":"Action","year":1906},{"book_id":77,"author":"Emilio Salgari","title":"Sandokan","genre":"Horror","year":1954},{"book_id":143,"author":"Emilio Zola","title":"Germinal","genre":"Science fiction","year":2017},{"book_id":348,"author":"Emilio Zola","title":"Yo acuso","genre":"Fantasy","year":2020},{"book_id":132,"author":"Emily Bront\u00eb","title":"Cumbres borrascosas","genre":"Comedy","year":1986},{"book_id":79,"author":"Emmanuel Kant","title":"Cr\u00edtica de la raz\u00f3n pura","genre":"Horror","year":1953},{"book_id":57,"author":"Emmanuel Kant","title":"Metaf\u00edsica de las costumbres","genre":"Action","year":1941},{"book_id":264,"author":"Emmanuel Kant","title":"Teor\u00eda y praxis","genre":"Thriller","year":1977},{"book_id":34,"author":"Enrique Estr\u00e1zulas","title":"Pepe Corvina","genre":"Horror","year":2004},{"book_id":462,"author":"Ernesto Guevara","title":"Diario del Che en Bolivia","genre":"Romance","year":1960},{"book_id":161,"author":"Ernesto Guevara","title":"La Guerra de Guerrillas","genre":"Fiction","year":2016},{"book_id":144,"author":"Ernesto S\u00e1bato","title":"El T\u00fanel","genre":"Horror","year":1957},{"book_id":42,"author":"Ernesto S\u00e1bato","title":"Sobre h\u00e9roes y tumbas","genre":"Mistery","year":1916},{"book_id":91,"author":"Ernesto S\u00e1bato","title":"Uno y el universo","genre":"Drama","year":1913},{"book_id":253,"author":"Federico Garc\u00eda Lorca","title":"Bodas de sangre","genre":"Mistery","year":1949},{"book_id":302,"author":"Federico Garc\u00eda Lorca","title":"Libro de poemas","genre":"Mistery","year":1983},{"book_id":293,"author":"Federico Garc\u00eda Lorca","title":"Poemas","genre":"Comedy","year":1910},{"book_id":426,"author":"Federico Garc\u00eda Lorca","title":"Romancero Gitano","genre":"Romance","year":2015},{"book_id":215,"author":"Federico Garcia Lorca","title":"Viaje a la Luna","genre":"Drama","year":2016},{"book_id":401,"author":"Federico Schiller","title":"Guillermo Tell","genre":"Mistery","year":1953},{"book_id":461,"author":"Federico Schiller","title":"Mar\u00eda Estuardo","genre":"Comedy","year":1957},{"book_id":50,"author":"Fedor Dostoieswski","title":"El adolescente","genre":"Fiction","year":1947},{"book_id":232,"author":"F\u00e9dor Dostoieswski","title":"El Jugador","genre":"Romance","year":2003},{"book_id":328,"author":"Fedor Dostoieswski","title":"Memorias del subsuelo","genre":"Science fiction","year":1968},{"book_id":428,"author":"Fedor Dostoiewski","title":"Crimen y castigo","genre":"Fiction","year":2009},{"book_id":257,"author":"Fedor Dostoiewski","title":"El Gran Inquisidor","genre":"Fantasy","year":1920},{"book_id":310,"author":"Fedor Dostoiewski","title":"El sue\u00f1o del pr\u00edncipe","genre":"Science fiction","year":1906},{"book_id":165,"author":"Fedor Dostoiewski","title":"Los hermanos Karamazov","genre":"Romance","year":1982},{"book_id":126,"author":"Fedor Dostoiewski","title":"Noches Blancas","genre":"Horror","year":1960},{"book_id":399,"author":"Feldman Esther","title":"La llave - Secretos del conocimiento","genre":"Fiction","year":2001},{"book_id":8,"author":"F\u00e9lix M. Samaniego","title":"F\u00e1bulas","genre":"Romance","year":1945},{"book_id":432,"author":"Fernando de Rojas","title":"La Celestina","genre":"Drama","year":1951},{"book_id":283,"author":"Flavio Josefo","title":"Las guerras de los Jud\u00edos","genre":"Mistery","year":1975},{"book_id":321,"author":"Flora Davis","title":"El lenguaje de los gestos","genre":"Romance","year":1906},{"book_id":438,"author":"Francis Bacon","title":"La nueva Atl\u00e1ntida","genre":"Action","year":1912},{"book_id":44,"author":"Francisco de Quevedo","title":"Historia de la vida del busc\u00f3n","genre":"Science fiction","year":1966},{"book_id":375,"author":"Francisco L\u00f3pez de G\u00f3mara","title":"Historia general de las Indias","genre":"Drama","year":2015},{"book_id":158,"author":"Frank Herbert","title":"Casa Capitular Dune","genre":"Action","year":2007},{"book_id":187,"author":"Frank Herbert","title":"Destino el vacio","genre":"Drama","year":1968},{"book_id":275,"author":"Frank Herbert","title":"Dios Emperador de Dune","genre":"Mistery","year":1992},{"book_id":197,"author":"Frank Herbert","title":"Dune","genre":"Mistery","year":1982},{"book_id":54,"author":"Frank Herbert","title":"El drag\u00f3n en el mar","genre":"Action","year":1910},{"book_id":163,"author":"Frank Herbert","title":"El Mes\u00edas de Dune","genre":"Fiction","year":1993},{"book_id":488,"author":"Frank Herbert","title":"Herejes de Dune","genre":"Science fiction","year":1909},{"book_id":66,"author":"Frank Herbert","title":"Hijos de Dune","genre":"Drama","year":1941},{"book_id":435,"author":"Frank Herbert","title":"La barrera Santaroga","genre":"Mistery","year":1950},{"book_id":436,"author":"Frank Herbert","title":"Los creadores de Dios","genre":"Mistery","year":1903},{"book_id":416,"author":"Frank Herbert","title":"Proyecto 40","genre":"Thriller","year":1963},{"book_id":16,"author":"Franz Kafka","title":"Ante la ley","genre":"Thriller","year":2003},{"book_id":355,"author":"Franz Kafka","title":"Carta a su padre","genre":"Romance","year":1985},{"book_id":356,"author":"Franz Kafka","title":"El artista del hambre","genre":"Horror","year":2001},{"book_id":238,"author":"Franz Kafka","title":"El escudo de la ciudad","genre":"Science fiction","year":2022},{"book_id":245,"author":"Franz Kafka","title":"El silencio de las sirenas","genre":"Drama","year":1906},{"book_id":313,"author":"Franz Kafka","title":"El viejo manuscrito","genre":"Mistery","year":1923},{"book_id":56,"author":"Franz Kafka","title":"La condena","genre":"Mistery","year":1953},{"book_id":312,"author":"Franz Kafka","title":"La metamorfosis","genre":"Horror","year":1978},{"book_id":331,"author":"Franz Kafka","title":"Prometeo","genre":"Thriller","year":1938},{"book_id":225,"author":"Franz Kafka","title":"Rese\u00f1a biogr\u00e1fica","genre":"Action","year":1907},{"book_id":9,"author":"Franz Kafka","title":"Ser infeliz","genre":"Mistery","year":1975},{"book_id":441,"author":"Franz Kafka","title":"Un golpe a la puerta del cortijo","genre":"Science fiction","year":1941},{"book_id":220,"author":"Franz Kafka","title":"Un m\u00e9dico rural","genre":"Romance","year":1955},{"book_id":6,"author":"Franz Kafka","title":"Un mensaje imperial","genre":"Thriller","year":1933},{"book_id":468,"author":"Fray Luis de Le\u00f3n","title":"De los nombres de Cristo","genre":"Science fiction","year":1942},{"book_id":248,"author":"Fredrich Engels","title":"Contribuci\u00f3n al problema de la vivienda","genre":"Comedy","year":1923},{"book_id":82,"author":"Fredrich Engels","title":"El papel de la violencia en la historia","genre":"Science fiction","year":1957},{"book_id":167,"author":"Friedrich Engels","title":"Del socialismo ut\u00f3pico al socialismo cient\u00edfico","genre":"Drama","year":2006},{"book_id":150,"author":"Friedrich Engels","title":"Dial\u00e9ctica de la naturaleza","genre":"Drama","year":1983},{"book_id":46,"author":"Friedrich Engels","title":"El origen de la familia","genre":"Action","year":1968},{"book_id":273,"author":"Friedrich Nietzsche","title":"Aforismos","genre":"Science fiction","year":1901},{"book_id":372,"author":"Friedrich Nietzsche","title":"As\u00ed habl\u00f3 Zaratustra","genre":"Fiction","year":1924},{"book_id":498,"author":"Friedrich Nietzsche","title":"C\u00f3mo se filosofa a martillazos","genre":"Fiction","year":2012},{"book_id":129,"author":"Friedrich Nietzsche","title":"De mi vida","genre":"Fantasy","year":1914},{"book_id":459,"author":"Friedrich Nietzsche","title":"Ecce homo","genre":"Action","year":1921},{"book_id":371,"author":"Friedrich Nietzsche","title":"El anticristo","genre":"Fiction","year":1972},{"book_id":36,"author":"Friedrich Nietzsche","title":"El nacimiento de la tragedia","genre":"Fiction","year":1984},{"book_id":448,"author":"Friedrich Nietzsche","title":"Genealog\u00eda de la moral","genre":"Fiction","year":1908},{"book_id":104,"author":"Friedrich Nietzsche","title":"Homero y la filolog\u00eda cl\u00e1sica","genre":"Drama","year":1979},{"book_id":15,"author":"Friedrich Nietzsche","title":"M\u00e1s all\u00e1 del bien y del mal","genre":"Fantasy","year":1916},{"book_id":11,"author":"Fulcanelli","title":"El misterio de las catedrales","genre":"Science fiction","year":1917},{"book_id":395,"author":"Fulcanelli","title":"Las moradas filos\u00f3fales","genre":"Fiction","year":1902},{"book_id":127,"author":"An\u00f3nimo","title":"Fundamentos del Feng Shui","genre":"Drama","year":1969},{"book_id":153,"author":"Gabriel Garc\u00eda M\u00e1rquez","title":"Cien A\u00f1os de Soledad","genre":"Fiction","year":1903},{"book_id":362,"author":"Gabriel Garc\u00eda M\u00e1rquez","title":"Cr\u00f3nica de una Muerte Anunciada","genre":"Horror","year":1974},{"book_id":109,"author":"Gabriel Garc\u00eda M\u00e1rquez","title":"Doce cuentos peregrinos","genre":"Thriller","year":2004},{"book_id":235,"author":"Gabriel Garc\u00eda M\u00e1rquez","title":"El Amor en los Tiempos del C\u00f3lera","genre":"Fantasy","year":1902},{"book_id":346,"author":"Gabriel Garc\u00eda M\u00e1rquez","title":"El Coronel no Tiene Quien le Escriba","genre":"Romance","year":1905},{"book_id":256,"author":"Gabriel Garc\u00eda M\u00e1rquez","title":"El oto\u00f1o del patriarca","genre":"Fantasy","year":1944},{"book_id":415,"author":"Gabriel Garc\u00eda M\u00e1rquez","title":"La Aventura de Miguel Littin","genre":"Comedy","year":1918},{"book_id":393,"author":"Gabriel Garc\u00eda M\u00e1rquez","title":"La incre\u00edble y triste historia de la c\u00e1ndida Er\u00e9ndira","genre":"Drama","year":1967},{"book_id":41,"author":"Gabriel Garc\u00eda M\u00e1rquez","title":"La mala hora","genre":"Horror","year":1913},{"book_id":85,"author":"Gabriel Garc\u00eda M\u00e1rquez","title":"Noticia de un secuestro","genre":"Mistery","year":1901},{"book_id":290,"author":"Gabriel Garc\u00eda M\u00e1rquez","title":"Obra period\u00edstica 1 - Textos Coste\u00f1os","genre":"Romance","year":1926},{"book_id":494,"author":"Gabriel Garc\u00eda M\u00e1rquez","title":"Obra period\u00edstica 2 - Entre cachacos","genre":"Fantasy","year":1929},{"book_id":333,"author":"Gabriel Garc\u00eda M\u00e1rquez","title":"Ojos de perro azul","genre":"Fiction","year":1993},{"book_id":228,"author":"Gabriel Garc\u00eda M\u00e1rquez","title":"Relato de un naufrago","genre":"Horror","year":1980},{"book_id":499,"author":"Gabriel Garc\u00eda M\u00e1rquez","title":"Vivir para contarla","genre":"Fantasy","year":1937},{"book_id":49,"author":"Gaston Leroux","title":"El Fantasma de la \u00f3pera","genre":"Thriller","year":1906},{"book_id":186,"author":"Geoffrey Chaucer","title":"Cuentos de Canterbury","genre":"Action","year":1975},{"book_id":160,"author":"George Eliot","title":"Middlemarch","genre":"Thriller","year":1924},{"book_id":443,"author":"George Orwell","title":"1984","genre":"Mistery","year":1980},{"book_id":68,"author":"George Orwell","title":"La Granja de Animales","genre":"Thriller","year":1928},{"book_id":298,"author":"George Orwell","title":"Rebeli\u00f3n en la granja","genre":"Horror","year":1942},{"book_id":247,"author":"George Stewart","title":"La tierra permanece","genre":"Comedy","year":1940},{"book_id":316,"author":"Georges Bataille","title":"Hegel - la muerte y el sacrificio","genre":"Comedy","year":1989},{"book_id":116,"author":"Georges Simenon","title":"El ahorcado de Saint Pholien","genre":"Action","year":1992},{"book_id":410,"author":"Germ\u00e1n Castro Caycedo","title":"La Bruja","genre":"Thriller","year":2015},{"book_id":55,"author":"Gibran Khalil Gibran","title":"Arena y espuma","genre":"Thriller","year":1956},{"book_id":297,"author":"Gibr\u00e1n Khalil Gibr\u00e1n","title":"El loco","genre":"Mistery","year":2021},{"book_id":35,"author":"Gibr\u00e1n Khalil Gibr\u00e1n","title":"El profeta","genre":"Science fiction","year":1958},{"book_id":403,"author":"Gibran Khalil Gibran","title":"Esp\u00edritus rebeldes","genre":"Fiction","year":1968},{"book_id":178,"author":"Gibr\u00e1n Khalil Gibr\u00e1n","title":"Jes\u00fas - El hijo del hombre","genre":"Science fiction","year":1913},{"book_id":469,"author":"Gibr\u00e1n Khalil Gibr\u00e1n","title":"La voz del maestro","genre":"Horror","year":1959},{"book_id":281,"author":"Gibr\u00e1n Khalil Gibr\u00e1n","title":"Los secretos de coraz\u00f3n","genre":"Fantasy","year":1997},{"book_id":230,"author":"Giovanni Boccaccio","title":"Decamer\u00f3n","genre":"Thriller","year":1959},{"book_id":466,"author":"Goethe W. Johan","title":"Fausto","genre":"Mistery","year":1915},{"book_id":179,"author":"Gore Vidal","title":"Mes\u00edas","genre":"Horror","year":1915},{"book_id":196,"author":"An\u00f3nimo","title":"Gu\u00eda pr\u00e1ctica de la Ouija","genre":"Mistery","year":1953},{"book_id":380,"author":"Guillermo Cabrera Infante","title":"La Habana para un infante difunto","genre":"Fantasy","year":2011},{"book_id":70,"author":"Gustave Flaubert","title":"Madame Bovery","genre":"Mistery","year":1922},{"book_id":102,"author":"Gustavo Adolfo B\u00e9cquer","title":"Ap\u00f3logo","genre":"Science fiction","year":1988},{"book_id":51,"author":"Gustavo Adolfo B\u00e9cquer","title":"Desde mi Celda","genre":"Fiction","year":1949},{"book_id":424,"author":"Gustavo Adolfo B\u00e9cquer","title":"El aderezo de esmeraldas","genre":"Action","year":1910},{"book_id":182,"author":"Gustavo Adolfo B\u00e9cquer","title":"El Monte de las \u00c1nimas","genre":"Action","year":1952},{"book_id":262,"author":"Gustavo Adolfo B\u00e9cquer","title":"Entre Sue\u00f1os","genre":"Romance","year":1976},{"book_id":100,"author":"Gustavo Adolfo B\u00e9cquer","title":"Es Raro","genre":"Science fiction","year":1960},{"book_id":151,"author":"Gustavo Adolfo B\u00e9cquer","title":"Historia de una Mariposa y una Ara\u00f1a","genre":"Romance","year":1996},{"book_id":26,"author":"Gustavo Adolfo B\u00e9cquer","title":"La Creaci\u00f3n","genre":"Thriller","year":1988},{"book_id":484,"author":"Gustavo Adolfo B\u00e9cquer","title":"La venta de los Gatos","genre":"Horror","year":1903},{"book_id":233,"author":"Gustavo Adolfo B\u00e9cquer","title":"Las hojas Secas","genre":"Fiction","year":1907},{"book_id":64,"author":"Gustavo Adolfo B\u00e9cquer","title":"Leyendas","genre":"Thriller","year":2015},{"book_id":363,"author":"Gustavo Adolfo B\u00e9cquer","title":"Memorias de un pavo","genre":"Thriller","year":1978},{"book_id":2,"author":"Gustavo Adolfo B\u00e9cquer","title":"Rimas","genre":"Drama","year":1961},{"book_id":476,"author":"Gustavo Adolfo B\u00e9cquer","title":"Tres fechas","genre":"Action","year":1968},{"book_id":408,"author":"Gustavo Adolfo B\u00e9cquer","title":"Un boceto del natural","genre":"Science fiction","year":2008},{"book_id":210,"author":"Gustavo Adolfo B\u00e9cquer","title":"Un lance pesado","genre":"Fiction","year":1972},{"book_id":350,"author":"Gustavo Adolfo B\u00e9cquer","title":"Un tesoro","genre":"Mistery","year":1942},{"book_id":7,"author":"Gustavo \u00c1lvarez Gardeazabal","title":"C\u00f3ndores no entierran todos los d\u00edas","genre":"Action","year":1943},{"book_id":231,"author":"H.Beam Piper","title":"Encuentro en Zaratustra","genre":"Horror","year":1978},{"book_id":343,"author":"H.G. Wells","title":"La guerra de los mundos","genre":"Mistery","year":1977},{"book_id":98,"author":"Hal Clement","title":"Cerca del punto cr\u00edtico","genre":"Romance","year":1937},{"book_id":75,"author":"Hal Clement","title":"Misi\u00f3n de gravedad","genre":"Fiction","year":1908},{"book_id":208,"author":"Hal Clement","title":"Persecuci\u00f3n c\u00f3smica","genre":"Thriller","year":2022},{"book_id":445,"author":"Harold Lamb","title":"Gengis Kan","genre":"Thriller","year":1947},{"book_id":25,"author":"Harriet B. Stowe","title":"La caba\u00f1a del t\u00edo Tom","genre":"Action","year":1982},{"book_id":61,"author":"Hector Alvarez Murena","title":"El centro del infierno","genre":"Action","year":1978},{"book_id":211,"author":"Helen MacInnes","title":"La Red Del Cazador","genre":"Science fiction","year":2000},{"book_id":368,"author":"Henry Charriere","title":"Papillon","genre":"Science fiction","year":2002},{"book_id":429,"author":"Henry R. Haggard","title":"Las minas del rey Salom\u00f3n","genre":"Fantasy","year":1908},{"book_id":353,"author":"Herbert George Wells","title":"Doce historias y un sue\u00f1o","genre":"Action","year":1978},{"book_id":337,"author":"Herbert George Wells","title":"El Hombre Invisible","genre":"Horror","year":1949},{"book_id":76,"author":"Herbert George Wells","title":"La m\u00e1quina del tiempo","genre":"Mistery","year":1964},{"book_id":174,"author":"Herbert Marcuse","title":"Cultura y sociedad","genre":"Romance","year":1965},{"book_id":272,"author":"Hermann Hesse","title":"Lobo Estepario","genre":"Comedy","year":1955},{"book_id":357,"author":"Hermann Hesse","title":"Siddharta","genre":"Mistery","year":1974},{"book_id":198,"author":"H\u00f6lderlin & Kleist & Nietzsche","title":"Lucha contra el demonio","genre":"Thriller","year":1946},{"book_id":261,"author":"Homero","title":"Il\u00edada","genre":"Science fiction","year":1956},{"book_id":265,"author":"Homero","title":"La odisea","genre":"Comedy","year":1950},{"book_id":320,"author":"Honorato de Balzac","title":"La piel de Zapa","genre":"Romance","year":1910},{"book_id":72,"author":"Howard Phillips Lovecraft","title":"Aire fr\u00edo","genre":"Fiction","year":1941},{"book_id":286,"author":"Howard Phillips Lovecraft","title":"Celepha\u00efs","genre":"Comedy","year":2012},{"book_id":115,"author":"Howard Phillips Lovecraft","title":"Cuentos","genre":"Thriller","year":1943},{"book_id":90,"author":"Howard Phillips Lovecraft","title":"El Caos Reptante","genre":"Comedy","year":1959},{"book_id":81,"author":"Howard Phillips Lovecraft","title":"El color surgido del espacio","genre":"Romance","year":2003},{"book_id":71,"author":"Howard Phillips Lovecraft","title":"El Horror de Dunwich","genre":"Comedy","year":1976},{"book_id":87,"author":"Howard Phillips Lovecraft","title":"El Sabueso","genre":"Fiction","year":1943},{"book_id":107,"author":"Howard Phillips Lovecraft","title":"En busca de la ciudad del sol poniente","genre":"Science fiction","year":1928},{"book_id":396,"author":"Howard Phillips Lovecraft","title":"En la cripta","genre":"Thriller","year":1967},{"book_id":156,"author":"Howard Phillips Lovecraft","title":"La Ciudad Sin Nombre","genre":"Mistery","year":1989},{"book_id":27,"author":"Howard Phillips Lovecraft","title":"La Declaraci\u00f3n De Randolph Carter","genre":"Drama","year":1903},{"book_id":490,"author":"Howard Phillips Lovecraft","title":"La maldici\u00f3n que cay\u00f3 sobre Sarnita","genre":"Fiction","year":2017},{"book_id":125,"author":"Howard Phillips Lovecraft","title":"Necronomicon","genre":"Comedy","year":1922},{"book_id":454,"author":"Howard Phillips Lovecraft","title":"Polaris","genre":"Horror","year":1975},{"book_id":219,"author":"Ira Levin","title":"La semilla del diablo","genre":"Mistery","year":1959},{"book_id":22,"author":"Ira Levin","title":"Las pose\u00eddas de Stepford","genre":"Fantasy","year":2001},{"book_id":374,"author":"Isaac Asimov","title":"B\u00f3vedas de acero","genre":"Drama","year":1931},{"book_id":183,"author":"Isaac Asimov","title":"El Hombre bicentenario","genre":"Horror","year":1913},{"book_id":485,"author":"Isaac Asimov","title":"El sol desnudo","genre":"Romance","year":1990},{"book_id":128,"author":"Isaac Asimov","title":"Hacia la Fundaci\u00f3n","genre":"Comedy","year":1980},{"book_id":278,"author":"Isaac Asimov","title":"Lucky Starr y los anillos de Saturno","genre":"Fiction","year":2002},{"book_id":384,"author":"Isaac Asimov","title":"Yo - Robot","genre":"Thriller","year":1926},{"book_id":205,"author":"Isabel Allende","title":"Cuentos de Eva Luna","genre":"Romance","year":1990},{"book_id":294,"author":"Isabel Allende","title":"De amor y de muerte","genre":"Fiction","year":1967},{"book_id":252,"author":"Isabel Allende","title":"El hombre de plata","genre":"Fiction","year":1957},{"book_id":345,"author":"Isabel Allende","title":"El plan infinito","genre":"Comedy","year":2003},{"book_id":330,"author":"Isabel Allende","title":"El Reino Del Drag\u00f3n De Oro","genre":"Mistery","year":1978},{"book_id":406,"author":"Isabel Allende","title":"Hija de la Fortuna","genre":"Fiction","year":1955},{"book_id":103,"author":"Isabel Allende","title":"La casa de los esp\u00edritus","genre":"Romance","year":1921},{"book_id":146,"author":"Isabel Allende","title":"La ciudad de las bestias","genre":"Thriller","year":1917},{"book_id":206,"author":"Isabel Allende","title":"Mi Pa\u00eds Inventado","genre":"Thriller","year":1988},{"book_id":464,"author":"Isabel Allende","title":"Paula","genre":"Science fiction","year":1969},{"book_id":249,"author":"Isabel Allende","title":"Retrato en sepia","genre":"Romance","year":1995},{"book_id":121,"author":"Italo Calvino","title":"El Bar\u00f3n rampante","genre":"Science fiction","year":1975},{"book_id":130,"author":"J.J. Ben\u00edtez","title":"Caballo de Troya 1 - Jerusal\u00e9n","genre":"Action","year":1918},{"book_id":471,"author":"J.J. Ben\u00edtez","title":"Caballo de Troya 2 - Masada","genre":"Science fiction","year":1918},{"book_id":168,"author":"J.J. Ben\u00edtez","title":"Caballo de Troya 3 - Said\u00e1n","genre":"Romance","year":1974},{"book_id":37,"author":"J.J. Ben\u00edtez","title":"Caballo de Troya 4 - Nazaret","genre":"Fantasy","year":1904},{"book_id":419,"author":"J.J. Ben\u00edtez","title":"Caballo de Troya 5 - Ces\u00e1rea","genre":"Comedy","year":1982},{"book_id":136,"author":"J.J. Benitez","title":"La Rebeli\u00f3n de Lucifer","genre":"Fantasy","year":1984},{"book_id":241,"author":"J.J. Ben\u00edtez","title":"Los astronautas de Yav\u00e9","genre":"Comedy","year":1917},{"book_id":5,"author":"J.K. Rowling","title":"Harry Potter y el C\u00e1liz de fuego","genre":"Thriller","year":2021},{"book_id":397,"author":"J.K. Rowling","title":"Harry Potter y el Prisionero de Azkaban","genre":"Fantasy","year":1936},{"book_id":288,"author":"J.K. Rowling","title":"Harry Potter y la C\u00e1mara secreta","genre":"Science fiction","year":1994},{"book_id":1,"author":"J.K. Rowling","title":"Harry Potter y la Piedra filosofal","genre":"Horror","year":1955},{"book_id":391,"author":"J.M. Barrie","title":"Peter Pan","genre":"Fiction","year":1992},{"book_id":237,"author":"J.R.R. Tolkien","title":"El Se\u00f1or de los Anillos - El Hobbit","genre":"Horror","year":1984},{"book_id":280,"author":"J.R.R. Tolkien","title":"El Se\u00f1or de los Anillos - El Retorno del Rey I","genre":"Fiction","year":1992},{"book_id":336,"author":"J.R.R. Tolkien","title":"El Se\u00f1or de los Anillos - El Retorno del Rey II","genre":"Fantasy","year":1930},{"book_id":300,"author":"J.R.R. Tolkien","title":"El Se\u00f1or de los Anillos - El Silmarillion","genre":"Drama","year":1923},{"book_id":110,"author":"J.R.R. Tolkien","title":"El Se\u00f1or de los Anillos - La Comunidad del anillo I","genre":"Drama","year":1956},{"book_id":292,"author":"J.R.R. Tolkien","title":"El Se\u00f1or de los Anillos - La Comunidad del anillo II","genre":"Fantasy","year":2008},{"book_id":97,"author":"J.R.R. Tolkien","title":"El Se\u00f1or de los Anillos - Las Dos Torres I","genre":"Thriller","year":1920},{"book_id":176,"author":"J.R.R. Tolkien","title":"El Se\u00f1or de los Anillos - Las Dos Torres II","genre":"Fantasy","year":2013},{"book_id":467,"author":"J.R.R. Tolkien","title":"La historia de los Silmarils","genre":"Thriller","year":2000},{"book_id":200,"author":"Jacqueline Mirande","title":"Arturo y los caballeros","genre":"Thriller","year":1938},{"book_id":442,"author":"Jaime Alonso Flores Ch\u00e1vez","title":"El \u00e1ngel y el Apocalipsis parte I","genre":"Mistery","year":1981},{"book_id":366,"author":"Jaime Alonso Flores Ch\u00e1vez","title":"El \u00e1ngel y el Apocalipsis parte II","genre":"Action","year":1987},{"book_id":58,"author":"James Blish","title":"Gigantes en la tierra","genre":"Mistery","year":1976},{"book_id":188,"author":"James Joyce","title":"Ulises","genre":"Romance","year":1975}]
+[
+  {
+    "book_id": 236,
+    "author": "A.A. Attanasio",
+    "title": "El drag\u00f3n y el unicornio",
+    "genre": "Romance",
+    "year": 1901
+  },
+  {
+    "book_id": 134,
+    "author": "A.A. Attanasio",
+    "title": "El lobo y la corona",
+    "genre": "Action",
+    "year": 1928
+  },
+  {
+    "book_id": 342,
+    "author": "Abraham Stoker",
+    "title": "Dr\u00e1cula",
+    "genre": "Fiction",
+    "year": 1934
+  },
+  {
+    "book_id": 246,
+    "author": "Adolfo Hitler",
+    "title": "Mi Lucha",
+    "genre": "Drama",
+    "year": 1987
+  },
+  {
+    "book_id": 452,
+    "author": "Agatha Christie",
+    "title": "Diez negritos",
+    "genre": "Thriller",
+    "year": 1973
+  },
+  {
+    "book_id": 31,
+    "author": "Agatha Christie",
+    "title": "El canto del cisne",
+    "genre": "Mistery",
+    "year": 1913
+  },
+  {
+    "book_id": 24,
+    "author": "Agatha Christie",
+    "title": "El cuarto Hombre",
+    "genre": "Fantasy",
+    "year": 1971
+  },
+  {
+    "book_id": 307,
+    "author": "Agatha Christie",
+    "title": "El geranio azul",
+    "genre": "Romance",
+    "year": 1902
+  },
+  {
+    "book_id": 458,
+    "author": "Agatha Christie",
+    "title": "El misterio de Listerdale",
+    "genre": "Science fiction",
+    "year": 1948
+  },
+  {
+    "book_id": 387,
+    "author": "Agatha Christie",
+    "title": "El pudding de navidad",
+    "genre": "Comedy",
+    "year": 1997
+  },
+  {
+    "book_id": 269,
+    "author": "Agatha Christie",
+    "title": "El secreto de Chimneys",
+    "genre": "Thriller",
+    "year": 1930
+  },
+  {
+    "book_id": 338,
+    "author": "Agatha Christie",
+    "title": "El testigo mudo",
+    "genre": "Fantasy",
+    "year": 1982
+  },
+  {
+    "book_id": 23,
+    "author": "Agatha Christie",
+    "title": "Hacia cero",
+    "genre": "Fantasy",
+    "year": 1931
+  },
+  {
+    "book_id": 227,
+    "author": "Agatha Christie",
+    "title": "La muchacha del tren",
+    "genre": "Science fiction",
+    "year": 1964
+  },
+  {
+    "book_id": 105,
+    "author": "Agatha Christie",
+    "title": "La muerte de Lord Edgware",
+    "genre": "Horror",
+    "year": 1977
+  },
+  {
+    "book_id": 243,
+    "author": "Agatha Christie",
+    "title": "La puerta del destino",
+    "genre": "Fiction",
+    "year": 1987
+  },
+  {
+    "book_id": 191,
+    "author": "Agatha Christie",
+    "title": "La venganza de Nofret",
+    "genre": "Comedy",
+    "year": 1982
+  },
+  {
+    "book_id": 322,
+    "author": "Agatha Christie",
+    "title": "Las Manzanas",
+    "genre": "Mistery",
+    "year": 1956
+  },
+  {
+    "book_id": 173,
+    "author": "Agatha Christie",
+    "title": "Lingotes de oro",
+    "genre": "Comedy",
+    "year": 1939
+  },
+  {
+    "book_id": 13,
+    "author": "Agatha Christie",
+    "title": "Los relojes",
+    "genre": "Action",
+    "year": 1933
+  },
+  {
+    "book_id": 447,
+    "author": "Agatha Christie",
+    "title": "Manchas en el suelo",
+    "genre": "Comedy",
+    "year": 1990
+  },
+  {
+    "book_id": 496,
+    "author": "Agatha Christie",
+    "title": "Miss Marple y trece problemas",
+    "genre": "Romance",
+    "year": 1970
+  },
+  {
+    "book_id": 440,
+    "author": "Agatha Christie",
+    "title": "Misterio en el Caribe",
+    "genre": "Comedy",
+    "year": 1948
+  },
+  {
+    "book_id": 86,
+    "author": "Agatha Christie",
+    "title": "M\u00f3vil versus oportunidad",
+    "genre": "Thriller",
+    "year": 1950
+  },
+  {
+    "book_id": 351,
+    "author": "Agatha Christie",
+    "title": "Nido de avispas",
+    "genre": "Comedy",
+    "year": 1964
+  },
+  {
+    "book_id": 446,
+    "author": "Agatha Christie",
+    "title": "Poirot en Egipto",
+    "genre": "Fantasy",
+    "year": 1923
+  },
+  {
+    "book_id": 472,
+    "author": "Agatha Christie",
+    "title": "Poirot infringe la ley",
+    "genre": "Action",
+    "year": 1916
+  },
+  {
+    "book_id": 214,
+    "author": "Agatha Christie",
+    "title": "SOS",
+    "genre": "Fantasy",
+    "year": 1931
+  },
+  {
+    "book_id": 99,
+    "author": "Agatha Christie",
+    "title": "Testigo de cargo",
+    "genre": "Action",
+    "year": 2003
+  },
+  {
+    "book_id": 326,
+    "author": "Agatha Christie",
+    "title": "Trayectoria de boomerang",
+    "genre": "Horror",
+    "year": 1991
+  },
+  {
+    "book_id": 260,
+    "author": "Agatha Christie",
+    "title": "\u00daltimo caso de Poirot",
+    "genre": "Drama",
+    "year": 1900
+  },
+  {
+    "book_id": 309,
+    "author": "Alan Dean Foster",
+    "title": "Alien el octavo pasajero",
+    "genre": "Drama",
+    "year": 1933
+  },
+  {
+    "book_id": 189,
+    "author": "Alan Dean Foster",
+    "title": "El Krang de los Tar-Aiym",
+    "genre": "Thriller",
+    "year": 1923
+  },
+  {
+    "book_id": 111,
+    "author": "Alan Dean Foster",
+    "title": "Tragedia en el Dark Star",
+    "genre": "Romance",
+    "year": 1985
+  },
+  {
+    "book_id": 456,
+    "author": "Albert Camus",
+    "title": "El Hu\u00e9sped",
+    "genre": "Comedy",
+    "year": 1925
+  },
+  {
+    "book_id": 234,
+    "author": "Albert Einstein",
+    "title": "Este Es Mi Pueblo",
+    "genre": "Science fiction",
+    "year": 1918
+  },
+  {
+    "book_id": 289,
+    "author": "Albert Einstein",
+    "title": "Mis Creencias",
+    "genre": "Fiction",
+    "year": 1945
+  },
+  {
+    "book_id": 285,
+    "author": "Albert Einstein",
+    "title": "Sobre la Teor\u00eda de la Relatividad",
+    "genre": "Thriller",
+    "year": 1955
+  },
+  {
+    "book_id": 370,
+    "author": "Alejandro Dumas",
+    "title": "El conde de Montecristo",
+    "genre": "Fantasy",
+    "year": 1913
+  },
+  {
+    "book_id": 120,
+    "author": "Alejandro Dumas",
+    "title": "El hombre de la mascara de hierro",
+    "genre": "Action",
+    "year": 1980
+  },
+  {
+    "book_id": 480,
+    "author": "Alejandro Dumas",
+    "title": "El tulip\u00e1n negro",
+    "genre": "Science fiction",
+    "year": 1964
+  },
+  {
+    "book_id": 190,
+    "author": "Alejandro Dumas",
+    "title": "El Vizconde de Bragelonne",
+    "genre": "Thriller",
+    "year": 1954
+  },
+  {
+    "book_id": 263,
+    "author": "Alejandro Dumas",
+    "title": "La Dama de las camelias",
+    "genre": "Science fiction",
+    "year": 1912
+  },
+  {
+    "book_id": 413,
+    "author": "Alejandro Dumas",
+    "title": "La mujer del collar de terciopelo (mil y un fantasmas)",
+    "genre": "Action",
+    "year": 1946
+  },
+  {
+    "book_id": 422,
+    "author": "Alejandro Dumas",
+    "title": "La reina Margot",
+    "genre": "Fantasy",
+    "year": 1913
+  },
+  {
+    "book_id": 479,
+    "author": "Alejandro Dumas",
+    "title": "Los tres mosqueteros",
+    "genre": "Fiction",
+    "year": 1942
+  },
+  {
+    "book_id": 131,
+    "author": "Alejandro Dumas",
+    "title": "Los tres mosqueteros (continuaci\u00f3n)",
+    "genre": "Science fiction",
+    "year": 1977
+  },
+  {
+    "book_id": 251,
+    "author": "Alfonso G\u00f3mez Lobo",
+    "title": "Escritos pol\u00edticos de Plat\u00f3n",
+    "genre": "Comedy",
+    "year": 1910
+  },
+  {
+    "book_id": 135,
+    "author": "Alvar Nu\u00f1ez Cabeza de Vaca",
+    "title": "Naufragios",
+    "genre": "Science fiction",
+    "year": 1917
+  },
+  {
+    "book_id": 222,
+    "author": "Alvaro Mutis",
+    "title": "Maqroll el Gaviero",
+    "genre": "Science fiction",
+    "year": 2019
+  },
+  {
+    "book_id": 95,
+    "author": "Ambrose Bierce",
+    "title": "Diccionario del Diablo",
+    "genre": "Horror",
+    "year": 1949
+  },
+  {
+    "book_id": 65,
+    "author": "Anne Rice",
+    "title": "Pandora",
+    "genre": "Mistery",
+    "year": 1961
+  },
+  {
+    "book_id": 69,
+    "author": "Anne Rice",
+    "title": "Cronicas Vampiricas 1 - Entrevista con el Vampiro",
+    "genre": "Horror",
+    "year": 1933
+  },
+  {
+    "book_id": 332,
+    "author": "Anne Rice",
+    "title": "Cronicas Vampiricas 2 - Lestat el Vampiro",
+    "genre": "Comedy",
+    "year": 1988
+  },
+  {
+    "book_id": 84,
+    "author": "Anne Rice",
+    "title": "Cronicas Vampiricas 3 - La reina de los condenados",
+    "genre": "Thriller",
+    "year": 1972
+  },
+  {
+    "book_id": 500,
+    "author": "Anne Rice",
+    "title": "La Momia",
+    "genre": "Horror",
+    "year": 1967
+  },
+  {
+    "book_id": 106,
+    "author": "An\u00f3nimo",
+    "title": "Druidismo",
+    "genre": "Fiction",
+    "year": 1917
+  },
+  {
+    "book_id": 279,
+    "author": "An\u00f3nimo",
+    "title": "El cantar del M\u00edo Cid",
+    "genre": "Fantasy",
+    "year": 1915
+  },
+  {
+    "book_id": 359,
+    "author": "An\u00f3nimo",
+    "title": "La leyenda de Gilgamesh",
+    "genre": "Horror",
+    "year": 1908
+  },
+  {
+    "book_id": 400,
+    "author": "An\u00f3nimo",
+    "title": "Lazarillo de Tormed",
+    "genre": "Romance",
+    "year": 2006
+  },
+  {
+    "book_id": 62,
+    "author": "An\u00f3nimo",
+    "title": "Memorias \u00edntimas de una Princesa Rusa",
+    "genre": "Mistery",
+    "year": 1955
+  },
+  {
+    "book_id": 32,
+    "author": "An\u00f3nimo",
+    "title": "Mil y una noches",
+    "genre": "Mistery",
+    "year": 2017
+  },
+  {
+    "book_id": 449,
+    "author": "An\u00f3nimo",
+    "title": "Posturas del Kamasutra",
+    "genre": "Horror",
+    "year": 1940
+  },
+  {
+    "book_id": 258,
+    "author": "An\u00f3nimo",
+    "title": "Robin Hood",
+    "genre": "Comedy",
+    "year": 1941
+  },
+  {
+    "book_id": 421,
+    "author": "Anthony Burgess",
+    "title": "La naranja mec\u00e1nica",
+    "genre": "Action",
+    "year": 1901
+  },
+  {
+    "book_id": 349,
+    "author": "Antoine De Saint-Exup\u00e9ry",
+    "title": "El principito",
+    "genre": "Fiction",
+    "year": 1982
+  },
+  {
+    "book_id": 379,
+    "author": "Ant\u00f3n Chejov",
+    "title": "Recopilaci\u00f3n",
+    "genre": "Romance",
+    "year": 1919
+  },
+  {
+    "book_id": 463,
+    "author": "Anton Szandor LaVey",
+    "title": "La Biblia Sat\u00e1nica",
+    "genre": "Action",
+    "year": 1965
+  },
+  {
+    "book_id": 113,
+    "author": "Antonio Bentu\u00e9",
+    "title": "Historia de las religiones",
+    "genre": "Thriller",
+    "year": 1946
+  },
+  {
+    "book_id": 239,
+    "author": "Antonio Sk\u00e1rmeta",
+    "title": "El Cartero de Neruda",
+    "genre": "Drama",
+    "year": 1927
+  },
+  {
+    "book_id": 431,
+    "author": "An\u00f3nimo",
+    "title": "Aprenda Java como si estuviera en primero",
+    "genre": "Romance",
+    "year": 1972
+  },
+  {
+    "book_id": 207,
+    "author": "An\u00f3nimo",
+    "title": "Aprenda Lenguaje C como si estuviera en primero",
+    "genre": "Fantasy",
+    "year": 2019
+  },
+  {
+    "book_id": 398,
+    "author": "An\u00f3nimo",
+    "title": "Aprenda Lenguaje C++ como si estuviera en primero",
+    "genre": "Fantasy",
+    "year": 2009
+  },
+  {
+    "book_id": 142,
+    "author": "An\u00f3nimo",
+    "title": "Aprenda Linux como si estuviera en primero",
+    "genre": "Mistery",
+    "year": 1948
+  },
+  {
+    "book_id": 414,
+    "author": "An\u00f3nimo",
+    "title": "Aprenda Servlets como si estuviera en primero",
+    "genre": "Comedy",
+    "year": 2015
+  },
+  {
+    "book_id": 47,
+    "author": "An\u00f3nimo",
+    "title": "Aprenda Visual Basic como si estuviera de primero",
+    "genre": "Drama",
+    "year": 1939
+  },
+  {
+    "book_id": 420,
+    "author": "An\u00f3nimo",
+    "title": "Arcanos Mayores",
+    "genre": "Fantasy",
+    "year": 2015
+  },
+  {
+    "book_id": 159,
+    "author": "Aristofanes",
+    "title": "Las nubes",
+    "genre": "Action",
+    "year": 2006
+  },
+  {
+    "book_id": 184,
+    "author": "Aristofanes",
+    "title": "Lisistrata",
+    "genre": "Thriller",
+    "year": 1989
+  },
+  {
+    "book_id": 193,
+    "author": "Arist\u00f3teles",
+    "title": "\u00c9tica a Nicomaco",
+    "genre": "Mistery",
+    "year": 2011
+  },
+  {
+    "book_id": 427,
+    "author": "Arist\u00f3teles",
+    "title": "La \u00c9tica",
+    "genre": "Horror",
+    "year": 1986
+  },
+  {
+    "book_id": 364,
+    "author": "Arist\u00f3teles",
+    "title": "La Gran Moral",
+    "genre": "Fantasy",
+    "year": 1958
+  },
+  {
+    "book_id": 181,
+    "author": "Arist\u00f3teles",
+    "title": "Metaf\u00edsica",
+    "genre": "Horror",
+    "year": 1995
+  },
+  {
+    "book_id": 78,
+    "author": "Arist\u00f3teles",
+    "title": "Moral a Eudemo",
+    "genre": "Mistery",
+    "year": 1955
+  },
+  {
+    "book_id": 303,
+    "author": "Arist\u00f3teles",
+    "title": "Po\u00e9tica",
+    "genre": "Comedy",
+    "year": 1991
+  },
+  {
+    "book_id": 29,
+    "author": "Arist\u00f3teles",
+    "title": "Pol\u00edtica",
+    "genre": "Mistery",
+    "year": 1969
+  },
+  {
+    "book_id": 145,
+    "author": "Arkadi y Boris Strugatsky",
+    "title": "Decididamente tal vez",
+    "genre": "Comedy",
+    "year": 1903
+  },
+  {
+    "book_id": 155,
+    "author": "Arkadi y Boris Strugatsky",
+    "title": "Picnic extraterrestre",
+    "genre": "Fiction",
+    "year": 1916
+  },
+  {
+    "book_id": 244,
+    "author": "Arkadi Y Boris Strugatsky",
+    "title": "Que Dif\u00edcil Es Ser Dios",
+    "genre": "Mistery",
+    "year": 1913
+  },
+  {
+    "book_id": 409,
+    "author": "Arthur C. Clarke",
+    "title": "2001 - Una odisea espacial",
+    "genre": "Action",
+    "year": 1999
+  },
+  {
+    "book_id": 314,
+    "author": "Arthur C. Clarke",
+    "title": "2010 - Odisea dos",
+    "genre": "Action",
+    "year": 1962
+  },
+  {
+    "book_id": 140,
+    "author": "Arthur C. Clarke",
+    "title": "2061 Odisea tres",
+    "genre": "Thriller",
+    "year": 1955
+  },
+  {
+    "book_id": 470,
+    "author": "Arthur C. Clarke",
+    "title": "3001 Odisea final",
+    "genre": "Mistery",
+    "year": 1941
+  },
+  {
+    "book_id": 460,
+    "author": "Arthur C. Clarke",
+    "title": "Alba de saturno",
+    "genre": "Science fiction",
+    "year": 1909
+  },
+  {
+    "book_id": 453,
+    "author": "Arthur C. Clarke",
+    "title": "Alcanza el ma\u00f1ana",
+    "genre": "Horror",
+    "year": 1904
+  },
+  {
+    "book_id": 439,
+    "author": "Arthur C. Clarke",
+    "title": "Antes del Ed\u00e9n",
+    "genre": "Action",
+    "year": 2014
+  },
+  {
+    "book_id": 291,
+    "author": "Arthur C. Clarke",
+    "title": "Cita con Rama",
+    "genre": "Action",
+    "year": 1900
+  },
+  {
+    "book_id": 276,
+    "author": "Arthur C. Clarke",
+    "title": "Claro de Tierra",
+    "genre": "Fiction",
+    "year": 1990
+  },
+  {
+    "book_id": 14,
+    "author": "Arthur C. Clarke",
+    "title": "Crimen en Marte",
+    "genre": "Horror",
+    "year": 2012
+  },
+  {
+    "book_id": 487,
+    "author": "Arthur C. Clarke",
+    "title": "Cuentos del planeta tierra",
+    "genre": "Comedy",
+    "year": 1984
+  },
+  {
+    "book_id": 324,
+    "author": "Arthur C. Clarke",
+    "title": "El centinela",
+    "genre": "Thriller",
+    "year": 1915
+  },
+  {
+    "book_id": 217,
+    "author": "Arthur C. Clarke",
+    "title": "El fin de la infancia",
+    "genre": "Mistery",
+    "year": 1956
+  },
+  {
+    "book_id": 185,
+    "author": "Arthur C. Clarke",
+    "title": "El martillo de Dios",
+    "genre": "Horror",
+    "year": 1954
+  },
+  {
+    "book_id": 177,
+    "author": "Arthur C. Clarke",
+    "title": "El viento del sol",
+    "genre": "Romance",
+    "year": 1993
+  },
+  {
+    "book_id": 301,
+    "author": "Arthur C. Clarke",
+    "title": "En las profundidades",
+    "genre": "Action",
+    "year": 1997
+  },
+  {
+    "book_id": 171,
+    "author": "Arthur C. Clarke",
+    "title": "La ciudad y las estrellas",
+    "genre": "Science fiction",
+    "year": 1987
+  },
+  {
+    "book_id": 430,
+    "author": "Arthur C. Clarke",
+    "title": "Las arenas de Marte",
+    "genre": "Comedy",
+    "year": 1935
+  },
+  {
+    "book_id": 378,
+    "author": "Arthur C. Clarke",
+    "title": "Masa critica",
+    "genre": "Science fiction",
+    "year": 1994
+  },
+  {
+    "book_id": 201,
+    "author": "Arthur C. Clarke",
+    "title": "Preludio al espacio",
+    "genre": "Action",
+    "year": 1961
+  },
+  {
+    "book_id": 92,
+    "author": "Arthur C. Clarke y Gentry Lee",
+    "title": "El jard\u00edn de Rama",
+    "genre": "Drama",
+    "year": 2014
+  },
+  {
+    "book_id": 19,
+    "author": "Arthur C. Clarke y Gentry Lee",
+    "title": "Rama II",
+    "genre": "Fantasy",
+    "year": 1902
+  },
+  {
+    "book_id": 277,
+    "author": "Arthur C. Clarke y Gentry Lee",
+    "title": "Rama revelada",
+    "genre": "Thriller",
+    "year": 1998
+  },
+  {
+    "book_id": 212,
+    "author": "Arthur C. Clarke y Paul Preuss",
+    "title": "Venus Prime IV",
+    "genre": "Science fiction",
+    "year": 1905
+  },
+  {
+    "book_id": 147,
+    "author": "Arthur C. Clarke y Paul Preuss",
+    "title": "Venus Prime I - Maxima tension",
+    "genre": "Horror",
+    "year": 1990
+  },
+  {
+    "book_id": 88,
+    "author": "Arthur C. Clarke y Paul Preuss",
+    "title": "Venus Prime II - Torbellino",
+    "genre": "Mistery",
+    "year": 2023
+  },
+  {
+    "book_id": 139,
+    "author": "Arthur Conan Doyle",
+    "title": "El mundo p\u00e9rdido",
+    "genre": "Drama",
+    "year": 1935
+  },
+  {
+    "book_id": 339,
+    "author": "Arthur Conan Doyle",
+    "title": "El sabueso de los Baskerville",
+    "genre": "Mistery",
+    "year": 2022
+  },
+  {
+    "book_id": 381,
+    "author": "Arthur Conan Doyle",
+    "title": "El signo de los cuatro",
+    "genre": "Fiction",
+    "year": 1922
+  },
+  {
+    "book_id": 308,
+    "author": "Arthur Conan Doyle",
+    "title": "Espanto en las alturas",
+    "genre": "Action",
+    "year": 1906
+  },
+  {
+    "book_id": 465,
+    "author": "Arthur Conan Doyle",
+    "title": "Estudio escarlata",
+    "genre": "Drama",
+    "year": 1974
+  },
+  {
+    "book_id": 455,
+    "author": "Arthur Conan Doyle",
+    "title": "La catacumba nueva",
+    "genre": "Horror",
+    "year": 1926
+  },
+  {
+    "book_id": 3,
+    "author": "Arthur Conan Doyle",
+    "title": "Las aventuras de Sherlock Holmes",
+    "genre": "Drama",
+    "year": 2018
+  },
+  {
+    "book_id": 296,
+    "author": "Arthur Conan Doyle",
+    "title": "Sherlock Holmes",
+    "genre": "Thriller",
+    "year": 1956
+  },
+  {
+    "book_id": 354,
+    "author": "An\u00f3nimo",
+    "title": "Astrolog\u00eda celta",
+    "genre": "Drama",
+    "year": 1990
+  },
+  {
+    "book_id": 175,
+    "author": "An\u00f3nimo",
+    "title": "Astrolog\u00eda general",
+    "genre": "Horror",
+    "year": 1927
+  },
+  {
+    "book_id": 495,
+    "author": "August Derleth",
+    "title": "Los Peque\u00f1os Monstruos",
+    "genre": "Action",
+    "year": 2003
+  },
+  {
+    "book_id": 157,
+    "author": "Benjam\u00edn Parravicini",
+    "title": "Profec\u00edas",
+    "genre": "Action",
+    "year": 1985
+  },
+  {
+    "book_id": 434,
+    "author": "Betty Dodson",
+    "title": "Sexo para uno",
+    "genre": "Mistery",
+    "year": 2020
+  },
+  {
+    "book_id": 93,
+    "author": "An\u00f3nimo",
+    "title": "Biograf\u00eda de Ernesto Guevara",
+    "genre": "Romance",
+    "year": 1949
+  },
+  {
+    "book_id": 28,
+    "author": "Bob Shaw",
+    "title": "Los mundos fugitivos",
+    "genre": "Action",
+    "year": 1933
+  },
+  {
+    "book_id": 295,
+    "author": "Brian Weiss",
+    "title": "El espejo del tiempo",
+    "genre": "Thriller",
+    "year": 1911
+  },
+  {
+    "book_id": 361,
+    "author": "Brian Weiss",
+    "title": "Los Mensajes de los Sabios",
+    "genre": "Romance",
+    "year": 1949
+  },
+  {
+    "book_id": 133,
+    "author": "Brian Weiss",
+    "title": "Muchas Vidas Muchos Maestros",
+    "genre": "Fantasy",
+    "year": 1919
+  },
+  {
+    "book_id": 108,
+    "author": "Brian Weiss",
+    "title": "S\u00f3lo el amor es real",
+    "genre": "Drama",
+    "year": 1987
+  },
+  {
+    "book_id": 497,
+    "author": "Bronislaw Malinowski",
+    "title": "Crimen y costumbre en la sociedad salvaje",
+    "genre": "Fiction",
+    "year": 2006
+  },
+  {
+    "book_id": 388,
+    "author": "Bruce Sterling",
+    "title": "La Caza de Hackers",
+    "genre": "Mistery",
+    "year": 1994
+  },
+  {
+    "book_id": 141,
+    "author": "C.S. Lewis",
+    "title": "Esa horrenda fortaleza",
+    "genre": "Thriller",
+    "year": 1953
+  },
+  {
+    "book_id": 318,
+    "author": "Camilo Guevara",
+    "title": "hijo del Che",
+    "genre": "Science fiction",
+    "year": 1960
+  },
+  {
+    "book_id": 254,
+    "author": "Camilo Jos\u00e9 Cela",
+    "title": "La familia de Pascual Duarte",
+    "genre": "Fantasy",
+    "year": 1991
+  },
+  {
+    "book_id": 323,
+    "author": "Carl Marx y Federich Engels",
+    "title": "Manifiesto del partido comunista",
+    "genre": "Mistery",
+    "year": 1972
+  },
+  {
+    "book_id": 101,
+    "author": "Carl Sagan",
+    "title": "Contacto",
+    "genre": "Drama",
+    "year": 1975
+  },
+  {
+    "book_id": 392,
+    "author": "Carl Sagan",
+    "title": "Cosmos",
+    "genre": "Drama",
+    "year": 1991
+  },
+  {
+    "book_id": 373,
+    "author": "Carl Sagan",
+    "title": "El Cerebro de Broca",
+    "genre": "Drama",
+    "year": 1972
+  },
+  {
+    "book_id": 352,
+    "author": "Carl Sagan",
+    "title": "La Carga del Escepticismo",
+    "genre": "Fiction",
+    "year": 1926
+  },
+  {
+    "book_id": 481,
+    "author": "Carl Sagan",
+    "title": "Miles de Millones",
+    "genre": "Thriller",
+    "year": 1976
+  },
+  {
+    "book_id": 172,
+    "author": "Carlos Castaneda",
+    "title": "El arte de enso\u00f1ar",
+    "genre": "Science fiction",
+    "year": 2018
+  },
+  {
+    "book_id": 492,
+    "author": "Carlos Castaneda",
+    "title": "El conocimiento silencioso",
+    "genre": "Fantasy",
+    "year": 1956
+  },
+  {
+    "book_id": 60,
+    "author": "Carlos Castaneda",
+    "title": "El don del \u00e1guila",
+    "genre": "Horror",
+    "year": 1941
+  },
+  {
+    "book_id": 119,
+    "author": "Carlos Castaneda",
+    "title": "El Fuego Interno",
+    "genre": "Mistery",
+    "year": 1951
+  },
+  {
+    "book_id": 394,
+    "author": "Carlos Castaneda",
+    "title": "El segundo anillo de poder",
+    "genre": "Horror",
+    "year": 1994
+  },
+  {
+    "book_id": 411,
+    "author": "Carlos Castaneda",
+    "title": "La rueda del tiempo",
+    "genre": "Fantasy",
+    "year": 1956
+  },
+  {
+    "book_id": 358,
+    "author": "Carlos Castaneda",
+    "title": "Las ense\u00f1anzas de Don Juan",
+    "genre": "Drama",
+    "year": 1964
+  },
+  {
+    "book_id": 335,
+    "author": "Carlos Castaneda",
+    "title": "Relatos de poder",
+    "genre": "Fiction",
+    "year": 1974
+  },
+  {
+    "book_id": 180,
+    "author": "Carlos Castaneda",
+    "title": "Una realidad aparte",
+    "genre": "Comedy",
+    "year": 1925
+  },
+  {
+    "book_id": 404,
+    "author": "Carlos Castaneda",
+    "title": "Viaje a Ixtlan",
+    "genre": "Horror",
+    "year": 1960
+  },
+  {
+    "book_id": 89,
+    "author": "Carlos Montenegro",
+    "title": "Hombres sin mujer",
+    "genre": "Fiction",
+    "year": 2012
+  },
+  {
+    "book_id": 268,
+    "author": "An\u00f3nimo",
+    "title": "Carta del Che a Fidel Castro",
+    "genre": "Romance",
+    "year": 1910
+  },
+  {
+    "book_id": 148,
+    "author": "Cecelia Holand",
+    "title": "La Muerte de Atila",
+    "genre": "Comedy",
+    "year": 1934
+  },
+  {
+    "book_id": 271,
+    "author": "C\u00e9sar Cant\u00fa",
+    "title": "Compendio de la Historia Universal",
+    "genre": "Drama",
+    "year": 1905
+  },
+  {
+    "book_id": 340,
+    "author": "C\u00e9sar Vallejo",
+    "title": "M\u00e1s all\u00e1 de la vida y la muerte",
+    "genre": "Science fiction",
+    "year": 1934
+  },
+  {
+    "book_id": 417,
+    "author": "Charles Baudelaire",
+    "title": "Las letan\u00edas de Sat\u00e1n",
+    "genre": "Fantasy",
+    "year": 1980
+  },
+  {
+    "book_id": 43,
+    "author": "Charles Bukowski",
+    "title": "El cartero",
+    "genre": "Thriller",
+    "year": 1985
+  },
+  {
+    "book_id": 341,
+    "author": "Charles Bukowski",
+    "title": "Pulp",
+    "genre": "Action",
+    "year": 1996
+  },
+  {
+    "book_id": 474,
+    "author": "Charles Bukowsky",
+    "title": "La senda del perdedor",
+    "genre": "Fantasy",
+    "year": 1991
+  },
+  {
+    "book_id": 477,
+    "author": "Charles Darwin",
+    "title": "El origen de las especies",
+    "genre": "Drama",
+    "year": 2020
+  },
+  {
+    "book_id": 117,
+    "author": "Charles Darwin",
+    "title": "Viaje de un naturalista",
+    "genre": "Drama",
+    "year": 1929
+  },
+  {
+    "book_id": 386,
+    "author": "Charles Dickens",
+    "title": "Cuento de navidad",
+    "genre": "Thriller",
+    "year": 1902
+  },
+  {
+    "book_id": 33,
+    "author": "Charles Dickens",
+    "title": "David Copperfield",
+    "genre": "Fiction",
+    "year": 1965
+  },
+  {
+    "book_id": 425,
+    "author": "Charles Dickens",
+    "title": "El grillo del hogar",
+    "genre": "Thriller",
+    "year": 1962
+  },
+  {
+    "book_id": 17,
+    "author": "Charles Dickens",
+    "title": "El Guardav\u00eda",
+    "genre": "Fantasy",
+    "year": 1930
+  },
+  {
+    "book_id": 270,
+    "author": "Charles Dickens",
+    "title": "Grandes esperanzas",
+    "genre": "Fantasy",
+    "year": 2009
+  },
+  {
+    "book_id": 250,
+    "author": "Charles Dickens",
+    "title": "Historia de dos ciudades",
+    "genre": "Science fiction",
+    "year": 1968
+  },
+  {
+    "book_id": 327,
+    "author": "Charles Dickens",
+    "title": "Historias de fantasmas",
+    "genre": "Science fiction",
+    "year": 1938
+  },
+  {
+    "book_id": 377,
+    "author": "Charles Dickens",
+    "title": "Oliver Twist",
+    "genre": "Horror",
+    "year": 1951
+  },
+  {
+    "book_id": 4,
+    "author": "Charles Perrault",
+    "title": "Cuentos",
+    "genre": "Fiction",
+    "year": 1938
+  },
+  {
+    "book_id": 478,
+    "author": "Charlotte Bront\u00eb",
+    "title": "Jane Eyre",
+    "genre": "Drama",
+    "year": 1945
+  },
+  {
+    "book_id": 48,
+    "author": "Choderlos de Laclos",
+    "title": "Amistades peligrosas",
+    "genre": "Fiction",
+    "year": 2016
+  },
+  {
+    "book_id": 402,
+    "author": "Christian Jacq",
+    "title": "El valle de los reyes",
+    "genre": "Mistery",
+    "year": 1911
+  },
+  {
+    "book_id": 493,
+    "author": "Christian Jacq",
+    "title": "La mujer sabia",
+    "genre": "Science fiction",
+    "year": 1913
+  },
+  {
+    "book_id": 162,
+    "author": "Christian Jacq",
+    "title": "Lugar de Verdad",
+    "genre": "Horror",
+    "year": 1958
+  },
+  {
+    "book_id": 138,
+    "author": "Christian Jacq",
+    "title": "Nefer el Silencioso",
+    "genre": "Romance",
+    "year": 1984
+  },
+  {
+    "book_id": 154,
+    "author": "Christian Jacq",
+    "title": "Paneb el Ardiente",
+    "genre": "Horror",
+    "year": 1982
+  },
+  {
+    "book_id": 224,
+    "author": "Christian Jacq",
+    "title": "Ramses I El Hijo de la Luz",
+    "genre": "Mistery",
+    "year": 2000
+  },
+  {
+    "book_id": 63,
+    "author": "Christine Feehan",
+    "title": "Descenso oscuro",
+    "genre": "Mistery",
+    "year": 1928
+  },
+  {
+    "book_id": 242,
+    "author": "Christine Feehan",
+    "title": "El Pr\u00edncipe oscuro",
+    "genre": "Horror",
+    "year": 1923
+  },
+  {
+    "book_id": 137,
+    "author": "Christine Feehan",
+    "title": "Magia oscura",
+    "genre": "Science fiction",
+    "year": 1936
+  },
+  {
+    "book_id": 491,
+    "author": "An\u00f3nimo",
+    "title": "Cibernegocios",
+    "genre": "Horror",
+    "year": 1973
+  },
+  {
+    "book_id": 118,
+    "author": "Clark Ashton Smith",
+    "title": "Los mundos perdidos",
+    "genre": "Thriller",
+    "year": 2003
+  },
+  {
+    "book_id": 213,
+    "author": "Claudio Hern\u00e1ndez",
+    "title": "Hackers",
+    "genre": "Mistery",
+    "year": 1921
+  },
+  {
+    "book_id": 38,
+    "author": "Clive Barker",
+    "title": "Cabal",
+    "genre": "Thriller",
+    "year": 1900
+  },
+  {
+    "book_id": 473,
+    "author": "Clive Barker",
+    "title": "El Ladr\u00f3n de d\u00edas",
+    "genre": "Romance",
+    "year": 1933
+  },
+  {
+    "book_id": 204,
+    "author": "Clive Barker",
+    "title": "Libros sangrientos 1",
+    "genre": "Drama",
+    "year": 1942
+  },
+  {
+    "book_id": 123,
+    "author": "Clive Barker",
+    "title": "Libros sangrientos 2",
+    "genre": "Romance",
+    "year": 2017
+  },
+  {
+    "book_id": 202,
+    "author": "Clive Barker",
+    "title": "Libros sangrientos 3",
+    "genre": "Fantasy",
+    "year": 1903
+  },
+  {
+    "book_id": 405,
+    "author": "Clive Barker",
+    "title": "Sangre",
+    "genre": "Horror",
+    "year": 1993
+  },
+  {
+    "book_id": 73,
+    "author": "An\u00f3nimo",
+    "title": "Conceptos b\u00e1sicos del tarot",
+    "genre": "Comedy",
+    "year": 1965
+  },
+  {
+    "book_id": 390,
+    "author": "Cordwainer Smith",
+    "title": "En busca de tres mundos",
+    "genre": "Action",
+    "year": 1974
+  },
+  {
+    "book_id": 74,
+    "author": "Cordwainer Smith",
+    "title": "La dama muerta de Clown Town",
+    "genre": "Mistery",
+    "year": 1936
+  },
+  {
+    "book_id": 334,
+    "author": "Cordwainer Smith",
+    "title": "Norstrilia",
+    "genre": "Romance",
+    "year": 1932
+  },
+  {
+    "book_id": 306,
+    "author": "An\u00f3nimo",
+    "title": " Cristalograf\u00eda",
+    "genre": "Fiction",
+    "year": 1952
+  },
+  {
+    "book_id": 360,
+    "author": "Dan Brown",
+    "title": "El C\u00f3digo Da Vinci",
+    "genre": "Action",
+    "year": 2001
+  },
+  {
+    "book_id": 218,
+    "author": "Dan Millman",
+    "title": "Inteligencia espiritual",
+    "genre": "Drama",
+    "year": 2002
+  },
+  {
+    "book_id": 486,
+    "author": "Daniel Defoe",
+    "title": "Robinson Crusoe",
+    "genre": "Horror",
+    "year": 1925
+  },
+  {
+    "book_id": 223,
+    "author": "Dante Alighieri",
+    "title": "Divina comedia",
+    "genre": "Fantasy",
+    "year": 1973
+  },
+  {
+    "book_id": 80,
+    "author": "Dante Alighieri",
+    "title": "La Vida Nueva",
+    "genre": "Thriller",
+    "year": 2002
+  },
+  {
+    "book_id": 10,
+    "author": "Darren Shan",
+    "title": "El tenebroso Cirque du Freak",
+    "genre": "Mistery",
+    "year": 1983
+  },
+  {
+    "book_id": 122,
+    "author": "Dashiell Hammett",
+    "title": "El Halc\u00f3n Malt\u00e9s",
+    "genre": "Mistery",
+    "year": 1995
+  },
+  {
+    "book_id": 317,
+    "author": "David Peat",
+    "title": "Sincronicidad",
+    "genre": "Comedy",
+    "year": 1945
+  },
+  {
+    "book_id": 389,
+    "author": "Dean Devlin & Roland Emmerich",
+    "title": "Stargate",
+    "genre": "Thriller",
+    "year": 1919
+  },
+  {
+    "book_id": 169,
+    "author": "Dean R. Koontz",
+    "title": "Hogueras Espectrales",
+    "genre": "Thriller",
+    "year": 1929
+  },
+  {
+    "book_id": 166,
+    "author": "Dean R. Koontz",
+    "title": "Intensidad",
+    "genre": "Drama",
+    "year": 1904
+  },
+  {
+    "book_id": 450,
+    "author": "Dean R. Koontz",
+    "title": "La M\u00e1scara",
+    "genre": "Mistery",
+    "year": 1997
+  },
+  {
+    "book_id": 203,
+    "author": "Dean R. Koontz",
+    "title": "Riesgo Mortal",
+    "genre": "Horror",
+    "year": 2022
+  },
+  {
+    "book_id": 170,
+    "author": "Dean R. Koontz",
+    "title": "Susurros",
+    "genre": "Horror",
+    "year": 1996
+  },
+  {
+    "book_id": 229,
+    "author": "Dean R. Koontz",
+    "title": "Tictac",
+    "genre": "Science fiction",
+    "year": 1928
+  },
+  {
+    "book_id": 18,
+    "author": "Deepak Chopra",
+    "title": "El camino de la abundancia",
+    "genre": "Comedy",
+    "year": 2006
+  },
+  {
+    "book_id": 94,
+    "author": "Deepak Chopra",
+    "title": "El sendero del mago",
+    "genre": "Mistery",
+    "year": 1908
+  },
+  {
+    "book_id": 124,
+    "author": "Deepak Chopra",
+    "title": "Sincrodestino",
+    "genre": "Action",
+    "year": 1982
+  },
+  {
+    "book_id": 216,
+    "author": "Diane Carey",
+    "title": "Har\u00e9n",
+    "genre": "Horror",
+    "year": 1953
+  },
+  {
+    "book_id": 39,
+    "author": "An\u00f3nimo",
+    "title": "Diccionario de los sue\u00f1os",
+    "genre": "Horror",
+    "year": 1970
+  },
+  {
+    "book_id": 376,
+    "author": "An\u00f3nimo",
+    "title": "Diccionario S\u00e1nscrito",
+    "genre": "Drama",
+    "year": 1948
+  },
+  {
+    "book_id": 96,
+    "author": "Diego Maradona",
+    "title": "Yo soy el Diego",
+    "genre": "Fiction",
+    "year": 2001
+  },
+  {
+    "book_id": 475,
+    "author": "Don Alonso de Ercilla y Z\u00fa\u00f1iga",
+    "title": "La Araucana",
+    "genre": "Mistery",
+    "year": 1998
+  },
+  {
+    "book_id": 284,
+    "author": "Don Francisco Quevedo",
+    "title": "Sue\u00f1os",
+    "genre": "Science fiction",
+    "year": 2023
+  },
+  {
+    "book_id": 149,
+    "author": "Douglas Adams",
+    "title": "El restaurante del fin del mundo",
+    "genre": "Thriller",
+    "year": 2017
+  },
+  {
+    "book_id": 482,
+    "author": "Dyer Wayner",
+    "title": "Tus zonas err\u00f3neas",
+    "genre": "Thriller",
+    "year": 1955
+  },
+  {
+    "book_id": 311,
+    "author": "Edgar Alan Poe",
+    "title": "La M\u00e1scara de la Muerte Roja",
+    "genre": "Horror",
+    "year": 1983
+  },
+  {
+    "book_id": 114,
+    "author": "Edgar Allan Poe",
+    "title": "Annabel Lee",
+    "genre": "Horror",
+    "year": 2015
+  },
+  {
+    "book_id": 221,
+    "author": "Edgar Allan Poe",
+    "title": "Berenice",
+    "genre": "Fiction",
+    "year": 1953
+  },
+  {
+    "book_id": 344,
+    "author": "Edgar Allan Poe",
+    "title": "Coloquio entre monos",
+    "genre": "Science fiction",
+    "year": 2015
+  },
+  {
+    "book_id": 259,
+    "author": "Edgar Allan Poe",
+    "title": "Cuatro Bestias en Una - El Hombre Camaleopardo",
+    "genre": "Science fiction",
+    "year": 1994
+  },
+  {
+    "book_id": 433,
+    "author": "Edgar Allan Poe",
+    "title": "El barril de amontillado",
+    "genre": "Fantasy",
+    "year": 1930
+  },
+  {
+    "book_id": 12,
+    "author": "Edgar Allan Poe",
+    "title": "El coraz\u00f3n delatador",
+    "genre": "Mistery",
+    "year": 2022
+  },
+  {
+    "book_id": 367,
+    "author": "Edgar Allan Poe",
+    "title": "El cottage de Candor",
+    "genre": "Comedy",
+    "year": 1931
+  },
+  {
+    "book_id": 53,
+    "author": "Edgar Allan Poe",
+    "title": "El Cuervo",
+    "genre": "Horror",
+    "year": 2002
+  },
+  {
+    "book_id": 489,
+    "author": "Edgar Allan Poe",
+    "title": "El demonio de la perversidad",
+    "genre": "Mistery",
+    "year": 1920
+  },
+  {
+    "book_id": 45,
+    "author": "Edgar Allan Poe",
+    "title": "El diablo en el campanario",
+    "genre": "Drama",
+    "year": 1974
+  },
+  {
+    "book_id": 305,
+    "author": "Edgar Allan Poe",
+    "title": "El entierro prematuro",
+    "genre": "Romance",
+    "year": 2003
+  },
+  {
+    "book_id": 152,
+    "author": "Edgar Allan Poe",
+    "title": "El Escarabajo de Oro",
+    "genre": "Thriller",
+    "year": 1975
+  },
+  {
+    "book_id": 407,
+    "author": "Edgar Allan Poe",
+    "title": "El hombre de la multitud",
+    "genre": "Action",
+    "year": 1996
+  },
+  {
+    "book_id": 67,
+    "author": "Edgar Allan Poe",
+    "title": "El hundimiento de la casa Usher",
+    "genre": "Action",
+    "year": 2018
+  },
+  {
+    "book_id": 21,
+    "author": "Edgar Allan Poe",
+    "title": "El poder de las palabras",
+    "genre": "Thriller",
+    "year": 1958
+  },
+  {
+    "book_id": 369,
+    "author": "Edgar Allan Poe",
+    "title": "El pozo y el p\u00e9ndulo",
+    "genre": "Fantasy",
+    "year": 2017
+  },
+  {
+    "book_id": 483,
+    "author": "Edgar Allan Poe",
+    "title": "El retrato ovalado",
+    "genre": "Drama",
+    "year": 2021
+  },
+  {
+    "book_id": 457,
+    "author": "Edgar Allan Poe",
+    "title": "Gato negro",
+    "genre": "Fantasy",
+    "year": 2015
+  },
+  {
+    "book_id": 299,
+    "author": "Edgar Allan Poe",
+    "title": "La carta robada",
+    "genre": "Science fiction",
+    "year": 1964
+  },
+  {
+    "book_id": 437,
+    "author": "Edgar Allan Poe",
+    "title": "La conversaci\u00f3n de Eiros y Charmion",
+    "genre": "Action",
+    "year": 1953
+  },
+  {
+    "book_id": 282,
+    "author": "Edgar Allan Poe",
+    "title": "La durmiente",
+    "genre": "Horror",
+    "year": 1986
+  },
+  {
+    "book_id": 164,
+    "author": "Edgar Allan Poe",
+    "title": "La mascara de la muerte roja",
+    "genre": "Drama",
+    "year": 1910
+  },
+  {
+    "book_id": 112,
+    "author": "Edgar Allan Poe",
+    "title": "Las campanas",
+    "genre": "Fiction",
+    "year": 1925
+  },
+  {
+    "book_id": 418,
+    "author": "Edgar Allan Poe",
+    "title": "Leonora",
+    "genre": "Thriller",
+    "year": 2022
+  },
+  {
+    "book_id": 266,
+    "author": "Edgar Allan Poe",
+    "title": "Ligeia",
+    "genre": "Comedy",
+    "year": 2012
+  },
+  {
+    "book_id": 20,
+    "author": "Edgar Allan Poe",
+    "title": "Los Cr\u00edmenes de la Rue Morge",
+    "genre": "Horror",
+    "year": 1905
+  },
+  {
+    "book_id": 385,
+    "author": "Edgar Allan Poe",
+    "title": "Los Hechos en el caso Valdemar",
+    "genre": "Drama",
+    "year": 1933
+  },
+  {
+    "book_id": 195,
+    "author": "Edgar Allan Poe",
+    "title": "Manuscrito hallado en una botella",
+    "genre": "Horror",
+    "year": 1991
+  },
+  {
+    "book_id": 347,
+    "author": "Edgar Allan Poe",
+    "title": "Morella",
+    "genre": "Drama",
+    "year": 1939
+  },
+  {
+    "book_id": 240,
+    "author": "Edgar Allan Poe",
+    "title": "Revelaci\u00f3n mesm\u00e9rica",
+    "genre": "Science fiction",
+    "year": 1962
+  },
+  {
+    "book_id": 30,
+    "author": "Edgar Allan Poe",
+    "title": "Silencio",
+    "genre": "Science fiction",
+    "year": 1966
+  },
+  {
+    "book_id": 209,
+    "author": "Edgar Allan Poe",
+    "title": "Un descenso al maelstrom",
+    "genre": "Fantasy",
+    "year": 1905
+  },
+  {
+    "book_id": 444,
+    "author": "Edgar Allan Poe",
+    "title": "Un sue\u00f1o en un sue\u00f1o",
+    "genre": "Romance",
+    "year": 1961
+  },
+  {
+    "book_id": 412,
+    "author": "Edgar Allan Poe",
+    "title": "Una historia de las monta\u00f1as Ragged",
+    "genre": "Action",
+    "year": 2022
+  },
+  {
+    "book_id": 274,
+    "author": "Edgar Allan Poe",
+    "title": "William Wilson",
+    "genre": "Romance",
+    "year": 1987
+  },
+  {
+    "book_id": 199,
+    "author": "Edgar Rice Burroughs",
+    "title": "Tarz\u00e1n el se\u00f1or de la jungla",
+    "genre": "Fantasy",
+    "year": 1944
+  },
+  {
+    "book_id": 451,
+    "author": "Eduardo Galeano",
+    "title": "D\u00edas y Noches de Amor y de Guerra",
+    "genre": "Action",
+    "year": 1935
+  },
+  {
+    "book_id": 383,
+    "author": "Eduardo Galeano",
+    "title": "Diccionario del Nuevo Orden Mundial",
+    "genre": "Science fiction",
+    "year": 2010
+  },
+  {
+    "book_id": 59,
+    "author": "Eduardo Galeano",
+    "title": "El derecho al delirio",
+    "genre": "Fiction",
+    "year": 1987
+  },
+  {
+    "book_id": 382,
+    "author": "Eduardo Galeano",
+    "title": "El Descubrimiento que Todav\u00eda no Fue",
+    "genre": "Science fiction",
+    "year": 2013
+  },
+  {
+    "book_id": 52,
+    "author": "Eduardo Galeano",
+    "title": "El f\u00fatbol a sol y sombra",
+    "genre": "Comedy",
+    "year": 1954
+  },
+  {
+    "book_id": 83,
+    "author": "Eduardo Galeano",
+    "title": "El Libro de Los Abrazos",
+    "genre": "Horror",
+    "year": 1930
+  },
+  {
+    "book_id": 315,
+    "author": "Eduardo Galeano",
+    "title": "El Ni\u00f1o Perdido en la Intemperie",
+    "genre": "Mistery",
+    "year": 1948
+  },
+  {
+    "book_id": 423,
+    "author": "Eduardo Galeano",
+    "title": "El Nombre Encontrado",
+    "genre": "Science fiction",
+    "year": 1986
+  },
+  {
+    "book_id": 325,
+    "author": "Eduardo Galeano",
+    "title": "La guerra",
+    "genre": "Mistery",
+    "year": 1939
+  },
+  {
+    "book_id": 319,
+    "author": "Eduardo Galeano",
+    "title": "La Teor\u00eda del Fin de la Historia",
+    "genre": "Drama",
+    "year": 1957
+  },
+  {
+    "book_id": 40,
+    "author": "Eduardo Galeano",
+    "title": "Las venas abiertas de Am\u00e9rica Latina",
+    "genre": "Drama",
+    "year": 1927
+  },
+  {
+    "book_id": 365,
+    "author": "Eduardo Galeano",
+    "title": "Los Cursos de la Facultad de Impunidades",
+    "genre": "Comedy",
+    "year": 1967
+  },
+  {
+    "book_id": 287,
+    "author": "Eduardo Mendoza",
+    "title": "El misterio de la cripta embrujada",
+    "genre": "Thriller",
+    "year": 1940
+  },
+  {
+    "book_id": 329,
+    "author": "Edward de Bono",
+    "title": "Seis sombreros para pensar",
+    "genre": "Mistery",
+    "year": 1956
+  },
+  {
+    "book_id": 226,
+    "author": "Edwin Brickill",
+    "title": "Quinientos millones de siglos despu\u00e9s",
+    "genre": "Science fiction",
+    "year": 1928
+  },
+  {
+    "book_id": 255,
+    "author": "An\u00f3nimo",
+    "title": "Ejercicios Diarios Para Alargamiento Del Pene",
+    "genre": "Thriller",
+    "year": 1997
+  },
+  {
+    "book_id": 194,
+    "author": "An\u00f3nimo",
+    "title": "El Gran Libro de los Chakras",
+    "genre": "Fiction",
+    "year": 1963
+  },
+  {
+    "book_id": 192,
+    "author": "An\u00f3nimo",
+    "title": "El kybalion",
+    "genre": "Fiction",
+    "year": 1940
+  },
+  {
+    "book_id": 267,
+    "author": "An\u00f3nimo",
+    "title": "El libro del Fenshui",
+    "genre": "Drama",
+    "year": 1955
+  },
+  {
+    "book_id": 304,
+    "author": "Emilio Salgari",
+    "title": "Los tigres de la Malasia",
+    "genre": "Action",
+    "year": 1906
+  },
+  {
+    "book_id": 77,
+    "author": "Emilio Salgari",
+    "title": "Sandokan",
+    "genre": "Horror",
+    "year": 1954
+  },
+  {
+    "book_id": 143,
+    "author": "Emilio Zola",
+    "title": "Germinal",
+    "genre": "Science fiction",
+    "year": 2017
+  },
+  {
+    "book_id": 348,
+    "author": "Emilio Zola",
+    "title": "Yo acuso",
+    "genre": "Fantasy",
+    "year": 2020
+  },
+  {
+    "book_id": 132,
+    "author": "Emily Bront\u00eb",
+    "title": "Cumbres borrascosas",
+    "genre": "Comedy",
+    "year": 1986
+  },
+  {
+    "book_id": 79,
+    "author": "Emmanuel Kant",
+    "title": "Cr\u00edtica de la raz\u00f3n pura",
+    "genre": "Horror",
+    "year": 1953
+  },
+  {
+    "book_id": 57,
+    "author": "Emmanuel Kant",
+    "title": "Metaf\u00edsica de las costumbres",
+    "genre": "Action",
+    "year": 1941
+  },
+  {
+    "book_id": 264,
+    "author": "Emmanuel Kant",
+    "title": "Teor\u00eda y praxis",
+    "genre": "Thriller",
+    "year": 1977
+  },
+  {
+    "book_id": 34,
+    "author": "Enrique Estr\u00e1zulas",
+    "title": "Pepe Corvina",
+    "genre": "Horror",
+    "year": 2004
+  },
+  {
+    "book_id": 462,
+    "author": "Ernesto Guevara",
+    "title": "Diario del Che en Bolivia",
+    "genre": "Romance",
+    "year": 1960
+  },
+  {
+    "book_id": 161,
+    "author": "Ernesto Guevara",
+    "title": "La Guerra de Guerrillas",
+    "genre": "Fiction",
+    "year": 2016
+  },
+  {
+    "book_id": 144,
+    "author": "Ernesto S\u00e1bato",
+    "title": "El T\u00fanel",
+    "genre": "Horror",
+    "year": 1957
+  },
+  {
+    "book_id": 42,
+    "author": "Ernesto S\u00e1bato",
+    "title": "Sobre h\u00e9roes y tumbas",
+    "genre": "Mistery",
+    "year": 1916
+  },
+  {
+    "book_id": 91,
+    "author": "Ernesto S\u00e1bato",
+    "title": "Uno y el universo",
+    "genre": "Drama",
+    "year": 1913
+  },
+  {
+    "book_id": 253,
+    "author": "Federico Garc\u00eda Lorca",
+    "title": "Bodas de sangre",
+    "genre": "Mistery",
+    "year": 1949
+  },
+  {
+    "book_id": 302,
+    "author": "Federico Garc\u00eda Lorca",
+    "title": "Libro de poemas",
+    "genre": "Mistery",
+    "year": 1983
+  },
+  {
+    "book_id": 293,
+    "author": "Federico Garc\u00eda Lorca",
+    "title": "Poemas",
+    "genre": "Comedy",
+    "year": 1910
+  },
+  {
+    "book_id": 426,
+    "author": "Federico Garc\u00eda Lorca",
+    "title": "Romancero Gitano",
+    "genre": "Romance",
+    "year": 2015
+  },
+  {
+    "book_id": 215,
+    "author": "Federico Garcia Lorca",
+    "title": "Viaje a la Luna",
+    "genre": "Drama",
+    "year": 2016
+  },
+  {
+    "book_id": 401,
+    "author": "Federico Schiller",
+    "title": "Guillermo Tell",
+    "genre": "Mistery",
+    "year": 1953
+  },
+  {
+    "book_id": 461,
+    "author": "Federico Schiller",
+    "title": "Mar\u00eda Estuardo",
+    "genre": "Comedy",
+    "year": 1957
+  },
+  {
+    "book_id": 50,
+    "author": "Fedor Dostoieswski",
+    "title": "El adolescente",
+    "genre": "Fiction",
+    "year": 1947
+  },
+  {
+    "book_id": 232,
+    "author": "F\u00e9dor Dostoieswski",
+    "title": "El Jugador",
+    "genre": "Romance",
+    "year": 2003
+  },
+  {
+    "book_id": 328,
+    "author": "Fedor Dostoieswski",
+    "title": "Memorias del subsuelo",
+    "genre": "Science fiction",
+    "year": 1968
+  },
+  {
+    "book_id": 428,
+    "author": "Fedor Dostoiewski",
+    "title": "Crimen y castigo",
+    "genre": "Fiction",
+    "year": 2009
+  },
+  {
+    "book_id": 257,
+    "author": "Fedor Dostoiewski",
+    "title": "El Gran Inquisidor",
+    "genre": "Fantasy",
+    "year": 1920
+  },
+  {
+    "book_id": 310,
+    "author": "Fedor Dostoiewski",
+    "title": "El sue\u00f1o del pr\u00edncipe",
+    "genre": "Science fiction",
+    "year": 1906
+  },
+  {
+    "book_id": 165,
+    "author": "Fedor Dostoiewski",
+    "title": "Los hermanos Karamazov",
+    "genre": "Romance",
+    "year": 1982
+  },
+  {
+    "book_id": 126,
+    "author": "Fedor Dostoiewski",
+    "title": "Noches Blancas",
+    "genre": "Horror",
+    "year": 1960
+  },
+  {
+    "book_id": 399,
+    "author": "Feldman Esther",
+    "title": "La llave - Secretos del conocimiento",
+    "genre": "Fiction",
+    "year": 2001
+  },
+  {
+    "book_id": 8,
+    "author": "F\u00e9lix M. Samaniego",
+    "title": "F\u00e1bulas",
+    "genre": "Romance",
+    "year": 1945
+  },
+  {
+    "book_id": 432,
+    "author": "Fernando de Rojas",
+    "title": "La Celestina",
+    "genre": "Drama",
+    "year": 1951
+  },
+  {
+    "book_id": 283,
+    "author": "Flavio Josefo",
+    "title": "Las guerras de los Jud\u00edos",
+    "genre": "Mistery",
+    "year": 1975
+  },
+  {
+    "book_id": 321,
+    "author": "Flora Davis",
+    "title": "El lenguaje de los gestos",
+    "genre": "Romance",
+    "year": 1906
+  },
+  {
+    "book_id": 438,
+    "author": "Francis Bacon",
+    "title": "La nueva Atl\u00e1ntida",
+    "genre": "Action",
+    "year": 1912
+  },
+  {
+    "book_id": 44,
+    "author": "Francisco de Quevedo",
+    "title": "Historia de la vida del busc\u00f3n",
+    "genre": "Science fiction",
+    "year": 1966
+  },
+  {
+    "book_id": 375,
+    "author": "Francisco L\u00f3pez de G\u00f3mara",
+    "title": "Historia general de las Indias",
+    "genre": "Drama",
+    "year": 2015
+  },
+  {
+    "book_id": 158,
+    "author": "Frank Herbert",
+    "title": "Casa Capitular Dune",
+    "genre": "Action",
+    "year": 2007
+  },
+  {
+    "book_id": 187,
+    "author": "Frank Herbert",
+    "title": "Destino el vacio",
+    "genre": "Drama",
+    "year": 1968
+  },
+  {
+    "book_id": 275,
+    "author": "Frank Herbert",
+    "title": "Dios Emperador de Dune",
+    "genre": "Mistery",
+    "year": 1992
+  },
+  {
+    "book_id": 197,
+    "author": "Frank Herbert",
+    "title": "Dune",
+    "genre": "Mistery",
+    "year": 1982
+  },
+  {
+    "book_id": 54,
+    "author": "Frank Herbert",
+    "title": "El drag\u00f3n en el mar",
+    "genre": "Action",
+    "year": 1910
+  },
+  {
+    "book_id": 163,
+    "author": "Frank Herbert",
+    "title": "El Mes\u00edas de Dune",
+    "genre": "Fiction",
+    "year": 1993
+  },
+  {
+    "book_id": 488,
+    "author": "Frank Herbert",
+    "title": "Herejes de Dune",
+    "genre": "Science fiction",
+    "year": 1909
+  },
+  {
+    "book_id": 66,
+    "author": "Frank Herbert",
+    "title": "Hijos de Dune",
+    "genre": "Drama",
+    "year": 1941
+  },
+  {
+    "book_id": 435,
+    "author": "Frank Herbert",
+    "title": "La barrera Santaroga",
+    "genre": "Mistery",
+    "year": 1950
+  },
+  {
+    "book_id": 436,
+    "author": "Frank Herbert",
+    "title": "Los creadores de Dios",
+    "genre": "Mistery",
+    "year": 1903
+  },
+  {
+    "book_id": 416,
+    "author": "Frank Herbert",
+    "title": "Proyecto 40",
+    "genre": "Thriller",
+    "year": 1963
+  },
+  {
+    "book_id": 16,
+    "author": "Franz Kafka",
+    "title": "Ante la ley",
+    "genre": "Thriller",
+    "year": 2003
+  },
+  {
+    "book_id": 355,
+    "author": "Franz Kafka",
+    "title": "Carta a su padre",
+    "genre": "Romance",
+    "year": 1985
+  },
+  {
+    "book_id": 356,
+    "author": "Franz Kafka",
+    "title": "El artista del hambre",
+    "genre": "Horror",
+    "year": 2001
+  },
+  {
+    "book_id": 238,
+    "author": "Franz Kafka",
+    "title": "El escudo de la ciudad",
+    "genre": "Science fiction",
+    "year": 2022
+  },
+  {
+    "book_id": 245,
+    "author": "Franz Kafka",
+    "title": "El silencio de las sirenas",
+    "genre": "Drama",
+    "year": 1906
+  },
+  {
+    "book_id": 313,
+    "author": "Franz Kafka",
+    "title": "El viejo manuscrito",
+    "genre": "Mistery",
+    "year": 1923
+  },
+  {
+    "book_id": 56,
+    "author": "Franz Kafka",
+    "title": "La condena",
+    "genre": "Mistery",
+    "year": 1953
+  },
+  {
+    "book_id": 312,
+    "author": "Franz Kafka",
+    "title": "La metamorfosis",
+    "genre": "Horror",
+    "year": 1978
+  },
+  {
+    "book_id": 331,
+    "author": "Franz Kafka",
+    "title": "Prometeo",
+    "genre": "Thriller",
+    "year": 1938
+  },
+  {
+    "book_id": 225,
+    "author": "Franz Kafka",
+    "title": "Rese\u00f1a biogr\u00e1fica",
+    "genre": "Action",
+    "year": 1907
+  },
+  {
+    "book_id": 9,
+    "author": "Franz Kafka",
+    "title": "Ser infeliz",
+    "genre": "Mistery",
+    "year": 1975
+  },
+  {
+    "book_id": 441,
+    "author": "Franz Kafka",
+    "title": "Un golpe a la puerta del cortijo",
+    "genre": "Science fiction",
+    "year": 1941
+  },
+  {
+    "book_id": 220,
+    "author": "Franz Kafka",
+    "title": "Un m\u00e9dico rural",
+    "genre": "Romance",
+    "year": 1955
+  },
+  {
+    "book_id": 6,
+    "author": "Franz Kafka",
+    "title": "Un mensaje imperial",
+    "genre": "Thriller",
+    "year": 1933
+  },
+  {
+    "book_id": 468,
+    "author": "Fray Luis de Le\u00f3n",
+    "title": "De los nombres de Cristo",
+    "genre": "Science fiction",
+    "year": 1942
+  },
+  {
+    "book_id": 248,
+    "author": "Fredrich Engels",
+    "title": "Contribuci\u00f3n al problema de la vivienda",
+    "genre": "Comedy",
+    "year": 1923
+  },
+  {
+    "book_id": 82,
+    "author": "Fredrich Engels",
+    "title": "El papel de la violencia en la historia",
+    "genre": "Science fiction",
+    "year": 1957
+  },
+  {
+    "book_id": 167,
+    "author": "Friedrich Engels",
+    "title": "Del socialismo ut\u00f3pico al socialismo cient\u00edfico",
+    "genre": "Drama",
+    "year": 2006
+  },
+  {
+    "book_id": 150,
+    "author": "Friedrich Engels",
+    "title": "Dial\u00e9ctica de la naturaleza",
+    "genre": "Drama",
+    "year": 1983
+  },
+  {
+    "book_id": 46,
+    "author": "Friedrich Engels",
+    "title": "El origen de la familia",
+    "genre": "Action",
+    "year": 1968
+  },
+  {
+    "book_id": 273,
+    "author": "Friedrich Nietzsche",
+    "title": "Aforismos",
+    "genre": "Science fiction",
+    "year": 1901
+  },
+  {
+    "book_id": 372,
+    "author": "Friedrich Nietzsche",
+    "title": "As\u00ed habl\u00f3 Zaratustra",
+    "genre": "Fiction",
+    "year": 1924
+  },
+  {
+    "book_id": 498,
+    "author": "Friedrich Nietzsche",
+    "title": "C\u00f3mo se filosofa a martillazos",
+    "genre": "Fiction",
+    "year": 2012
+  },
+  {
+    "book_id": 129,
+    "author": "Friedrich Nietzsche",
+    "title": "De mi vida",
+    "genre": "Fantasy",
+    "year": 1914
+  },
+  {
+    "book_id": 459,
+    "author": "Friedrich Nietzsche",
+    "title": "Ecce homo",
+    "genre": "Action",
+    "year": 1921
+  },
+  {
+    "book_id": 371,
+    "author": "Friedrich Nietzsche",
+    "title": "El anticristo",
+    "genre": "Fiction",
+    "year": 1972
+  },
+  {
+    "book_id": 36,
+    "author": "Friedrich Nietzsche",
+    "title": "El nacimiento de la tragedia",
+    "genre": "Fiction",
+    "year": 1984
+  },
+  {
+    "book_id": 448,
+    "author": "Friedrich Nietzsche",
+    "title": "Genealog\u00eda de la moral",
+    "genre": "Fiction",
+    "year": 1908
+  },
+  {
+    "book_id": 104,
+    "author": "Friedrich Nietzsche",
+    "title": "Homero y la filolog\u00eda cl\u00e1sica",
+    "genre": "Drama",
+    "year": 1979
+  },
+  {
+    "book_id": 15,
+    "author": "Friedrich Nietzsche",
+    "title": "M\u00e1s all\u00e1 del bien y del mal",
+    "genre": "Fantasy",
+    "year": 1916
+  },
+  {
+    "book_id": 11,
+    "author": "Fulcanelli",
+    "title": "El misterio de las catedrales",
+    "genre": "Science fiction",
+    "year": 1917
+  },
+  {
+    "book_id": 395,
+    "author": "Fulcanelli",
+    "title": "Las moradas filos\u00f3fales",
+    "genre": "Fiction",
+    "year": 1902
+  },
+  {
+    "book_id": 127,
+    "author": "An\u00f3nimo",
+    "title": "Fundamentos del Feng Shui",
+    "genre": "Drama",
+    "year": 1969
+  },
+  {
+    "book_id": 153,
+    "author": "Gabriel Garc\u00eda M\u00e1rquez",
+    "title": "Cien A\u00f1os de Soledad",
+    "genre": "Fiction",
+    "year": 1903
+  },
+  {
+    "book_id": 362,
+    "author": "Gabriel Garc\u00eda M\u00e1rquez",
+    "title": "Cr\u00f3nica de una Muerte Anunciada",
+    "genre": "Horror",
+    "year": 1974
+  },
+  {
+    "book_id": 109,
+    "author": "Gabriel Garc\u00eda M\u00e1rquez",
+    "title": "Doce cuentos peregrinos",
+    "genre": "Thriller",
+    "year": 2004
+  },
+  {
+    "book_id": 235,
+    "author": "Gabriel Garc\u00eda M\u00e1rquez",
+    "title": "El Amor en los Tiempos del C\u00f3lera",
+    "genre": "Fantasy",
+    "year": 1902
+  },
+  {
+    "book_id": 346,
+    "author": "Gabriel Garc\u00eda M\u00e1rquez",
+    "title": "El Coronel no Tiene Quien le Escriba",
+    "genre": "Romance",
+    "year": 1905
+  },
+  {
+    "book_id": 256,
+    "author": "Gabriel Garc\u00eda M\u00e1rquez",
+    "title": "El oto\u00f1o del patriarca",
+    "genre": "Fantasy",
+    "year": 1944
+  },
+  {
+    "book_id": 415,
+    "author": "Gabriel Garc\u00eda M\u00e1rquez",
+    "title": "La Aventura de Miguel Littin",
+    "genre": "Comedy",
+    "year": 1918
+  },
+  {
+    "book_id": 393,
+    "author": "Gabriel Garc\u00eda M\u00e1rquez",
+    "title": "La incre\u00edble y triste historia de la c\u00e1ndida Er\u00e9ndira",
+    "genre": "Drama",
+    "year": 1967
+  },
+  {
+    "book_id": 41,
+    "author": "Gabriel Garc\u00eda M\u00e1rquez",
+    "title": "La mala hora",
+    "genre": "Horror",
+    "year": 1913
+  },
+  {
+    "book_id": 85,
+    "author": "Gabriel Garc\u00eda M\u00e1rquez",
+    "title": "Noticia de un secuestro",
+    "genre": "Mistery",
+    "year": 1901
+  },
+  {
+    "book_id": 290,
+    "author": "Gabriel Garc\u00eda M\u00e1rquez",
+    "title": "Obra period\u00edstica 1 - Textos Coste\u00f1os",
+    "genre": "Romance",
+    "year": 1926
+  },
+  {
+    "book_id": 494,
+    "author": "Gabriel Garc\u00eda M\u00e1rquez",
+    "title": "Obra period\u00edstica 2 - Entre cachacos",
+    "genre": "Fantasy",
+    "year": 1929
+  },
+  {
+    "book_id": 333,
+    "author": "Gabriel Garc\u00eda M\u00e1rquez",
+    "title": "Ojos de perro azul",
+    "genre": "Fiction",
+    "year": 1993
+  },
+  {
+    "book_id": 228,
+    "author": "Gabriel Garc\u00eda M\u00e1rquez",
+    "title": "Relato de un naufrago",
+    "genre": "Horror",
+    "year": 1980
+  },
+  {
+    "book_id": 499,
+    "author": "Gabriel Garc\u00eda M\u00e1rquez",
+    "title": "Vivir para contarla",
+    "genre": "Fantasy",
+    "year": 1937
+  },
+  {
+    "book_id": 49,
+    "author": "Gaston Leroux",
+    "title": "El Fantasma de la \u00f3pera",
+    "genre": "Thriller",
+    "year": 1906
+  },
+  {
+    "book_id": 186,
+    "author": "Geoffrey Chaucer",
+    "title": "Cuentos de Canterbury",
+    "genre": "Action",
+    "year": 1975
+  },
+  {
+    "book_id": 160,
+    "author": "George Eliot",
+    "title": "Middlemarch",
+    "genre": "Thriller",
+    "year": 1924
+  },
+  {
+    "book_id": 443,
+    "author": "George Orwell",
+    "title": "1984",
+    "genre": "Mistery",
+    "year": 1980
+  },
+  {
+    "book_id": 68,
+    "author": "George Orwell",
+    "title": "La Granja de Animales",
+    "genre": "Thriller",
+    "year": 1928
+  },
+  {
+    "book_id": 298,
+    "author": "George Orwell",
+    "title": "Rebeli\u00f3n en la granja",
+    "genre": "Horror",
+    "year": 1942
+  },
+  {
+    "book_id": 247,
+    "author": "George Stewart",
+    "title": "La tierra permanece",
+    "genre": "Comedy",
+    "year": 1940
+  },
+  {
+    "book_id": 316,
+    "author": "Georges Bataille",
+    "title": "Hegel - la muerte y el sacrificio",
+    "genre": "Comedy",
+    "year": 1989
+  },
+  {
+    "book_id": 116,
+    "author": "Georges Simenon",
+    "title": "El ahorcado de Saint Pholien",
+    "genre": "Action",
+    "year": 1992
+  },
+  {
+    "book_id": 410,
+    "author": "Germ\u00e1n Castro Caycedo",
+    "title": "La Bruja",
+    "genre": "Thriller",
+    "year": 2015
+  },
+  {
+    "book_id": 55,
+    "author": "Gibran Khalil Gibran",
+    "title": "Arena y espuma",
+    "genre": "Thriller",
+    "year": 1956
+  },
+  {
+    "book_id": 297,
+    "author": "Gibr\u00e1n Khalil Gibr\u00e1n",
+    "title": "El loco",
+    "genre": "Mistery",
+    "year": 2021
+  },
+  {
+    "book_id": 35,
+    "author": "Gibr\u00e1n Khalil Gibr\u00e1n",
+    "title": "El profeta",
+    "genre": "Science fiction",
+    "year": 1958
+  },
+  {
+    "book_id": 403,
+    "author": "Gibran Khalil Gibran",
+    "title": "Esp\u00edritus rebeldes",
+    "genre": "Fiction",
+    "year": 1968
+  },
+  {
+    "book_id": 178,
+    "author": "Gibr\u00e1n Khalil Gibr\u00e1n",
+    "title": "Jes\u00fas - El hijo del hombre",
+    "genre": "Science fiction",
+    "year": 1913
+  },
+  {
+    "book_id": 469,
+    "author": "Gibr\u00e1n Khalil Gibr\u00e1n",
+    "title": "La voz del maestro",
+    "genre": "Horror",
+    "year": 1959
+  },
+  {
+    "book_id": 281,
+    "author": "Gibr\u00e1n Khalil Gibr\u00e1n",
+    "title": "Los secretos de coraz\u00f3n",
+    "genre": "Fantasy",
+    "year": 1997
+  },
+  {
+    "book_id": 230,
+    "author": "Giovanni Boccaccio",
+    "title": "Decamer\u00f3n",
+    "genre": "Thriller",
+    "year": 1959
+  },
+  {
+    "book_id": 466,
+    "author": "Goethe W. Johan",
+    "title": "Fausto",
+    "genre": "Mistery",
+    "year": 1915
+  },
+  {
+    "book_id": 179,
+    "author": "Gore Vidal",
+    "title": "Mes\u00edas",
+    "genre": "Horror",
+    "year": 1915
+  },
+  {
+    "book_id": 196,
+    "author": "An\u00f3nimo",
+    "title": "Gu\u00eda pr\u00e1ctica de la Ouija",
+    "genre": "Mistery",
+    "year": 1953
+  },
+  {
+    "book_id": 380,
+    "author": "Guillermo Cabrera Infante",
+    "title": "La Habana para un infante difunto",
+    "genre": "Fantasy",
+    "year": 2011
+  },
+  {
+    "book_id": 70,
+    "author": "Gustave Flaubert",
+    "title": "Madame Bovery",
+    "genre": "Mistery",
+    "year": 1922
+  },
+  {
+    "book_id": 102,
+    "author": "Gustavo Adolfo B\u00e9cquer",
+    "title": "Ap\u00f3logo",
+    "genre": "Science fiction",
+    "year": 1988
+  },
+  {
+    "book_id": 51,
+    "author": "Gustavo Adolfo B\u00e9cquer",
+    "title": "Desde mi Celda",
+    "genre": "Fiction",
+    "year": 1949
+  },
+  {
+    "book_id": 424,
+    "author": "Gustavo Adolfo B\u00e9cquer",
+    "title": "El aderezo de esmeraldas",
+    "genre": "Action",
+    "year": 1910
+  },
+  {
+    "book_id": 182,
+    "author": "Gustavo Adolfo B\u00e9cquer",
+    "title": "El Monte de las \u00c1nimas",
+    "genre": "Action",
+    "year": 1952
+  },
+  {
+    "book_id": 262,
+    "author": "Gustavo Adolfo B\u00e9cquer",
+    "title": "Entre Sue\u00f1os",
+    "genre": "Romance",
+    "year": 1976
+  },
+  {
+    "book_id": 100,
+    "author": "Gustavo Adolfo B\u00e9cquer",
+    "title": "Es Raro",
+    "genre": "Science fiction",
+    "year": 1960
+  },
+  {
+    "book_id": 151,
+    "author": "Gustavo Adolfo B\u00e9cquer",
+    "title": "Historia de una Mariposa y una Ara\u00f1a",
+    "genre": "Romance",
+    "year": 1996
+  },
+  {
+    "book_id": 26,
+    "author": "Gustavo Adolfo B\u00e9cquer",
+    "title": "La Creaci\u00f3n",
+    "genre": "Thriller",
+    "year": 1988
+  },
+  {
+    "book_id": 484,
+    "author": "Gustavo Adolfo B\u00e9cquer",
+    "title": "La venta de los Gatos",
+    "genre": "Horror",
+    "year": 1903
+  },
+  {
+    "book_id": 233,
+    "author": "Gustavo Adolfo B\u00e9cquer",
+    "title": "Las hojas Secas",
+    "genre": "Fiction",
+    "year": 1907
+  },
+  {
+    "book_id": 64,
+    "author": "Gustavo Adolfo B\u00e9cquer",
+    "title": "Leyendas",
+    "genre": "Thriller",
+    "year": 2015
+  },
+  {
+    "book_id": 363,
+    "author": "Gustavo Adolfo B\u00e9cquer",
+    "title": "Memorias de un pavo",
+    "genre": "Thriller",
+    "year": 1978
+  },
+  {
+    "book_id": 2,
+    "author": "Gustavo Adolfo B\u00e9cquer",
+    "title": "Rimas",
+    "genre": "Drama",
+    "year": 1961
+  },
+  {
+    "book_id": 476,
+    "author": "Gustavo Adolfo B\u00e9cquer",
+    "title": "Tres fechas",
+    "genre": "Action",
+    "year": 1968
+  },
+  {
+    "book_id": 408,
+    "author": "Gustavo Adolfo B\u00e9cquer",
+    "title": "Un boceto del natural",
+    "genre": "Science fiction",
+    "year": 2008
+  },
+  {
+    "book_id": 210,
+    "author": "Gustavo Adolfo B\u00e9cquer",
+    "title": "Un lance pesado",
+    "genre": "Fiction",
+    "year": 1972
+  },
+  {
+    "book_id": 350,
+    "author": "Gustavo Adolfo B\u00e9cquer",
+    "title": "Un tesoro",
+    "genre": "Mistery",
+    "year": 1942
+  },
+  {
+    "book_id": 7,
+    "author": "Gustavo \u00c1lvarez Gardeazabal",
+    "title": "C\u00f3ndores no entierran todos los d\u00edas",
+    "genre": "Action",
+    "year": 1943
+  },
+  {
+    "book_id": 231,
+    "author": "H.Beam Piper",
+    "title": "Encuentro en Zaratustra",
+    "genre": "Horror",
+    "year": 1978
+  },
+  {
+    "book_id": 343,
+    "author": "H.G. Wells",
+    "title": "La guerra de los mundos",
+    "genre": "Mistery",
+    "year": 1977
+  },
+  {
+    "book_id": 98,
+    "author": "Hal Clement",
+    "title": "Cerca del punto cr\u00edtico",
+    "genre": "Romance",
+    "year": 1937
+  },
+  {
+    "book_id": 75,
+    "author": "Hal Clement",
+    "title": "Misi\u00f3n de gravedad",
+    "genre": "Fiction",
+    "year": 1908
+  },
+  {
+    "book_id": 208,
+    "author": "Hal Clement",
+    "title": "Persecuci\u00f3n c\u00f3smica",
+    "genre": "Thriller",
+    "year": 2022
+  },
+  {
+    "book_id": 445,
+    "author": "Harold Lamb",
+    "title": "Gengis Kan",
+    "genre": "Thriller",
+    "year": 1947
+  },
+  {
+    "book_id": 25,
+    "author": "Harriet B. Stowe",
+    "title": "La caba\u00f1a del t\u00edo Tom",
+    "genre": "Action",
+    "year": 1982
+  },
+  {
+    "book_id": 61,
+    "author": "Hector Alvarez Murena",
+    "title": "El centro del infierno",
+    "genre": "Action",
+    "year": 1978
+  },
+  {
+    "book_id": 211,
+    "author": "Helen MacInnes",
+    "title": "La Red Del Cazador",
+    "genre": "Science fiction",
+    "year": 2000
+  },
+  {
+    "book_id": 368,
+    "author": "Henry Charriere",
+    "title": "Papillon",
+    "genre": "Science fiction",
+    "year": 2002
+  },
+  {
+    "book_id": 429,
+    "author": "Henry R. Haggard",
+    "title": "Las minas del rey Salom\u00f3n",
+    "genre": "Fantasy",
+    "year": 1908
+  },
+  {
+    "book_id": 353,
+    "author": "Herbert George Wells",
+    "title": "Doce historias y un sue\u00f1o",
+    "genre": "Action",
+    "year": 1978
+  },
+  {
+    "book_id": 337,
+    "author": "Herbert George Wells",
+    "title": "El Hombre Invisible",
+    "genre": "Horror",
+    "year": 1949
+  },
+  {
+    "book_id": 76,
+    "author": "Herbert George Wells",
+    "title": "La m\u00e1quina del tiempo",
+    "genre": "Mistery",
+    "year": 1964
+  },
+  {
+    "book_id": 174,
+    "author": "Herbert Marcuse",
+    "title": "Cultura y sociedad",
+    "genre": "Romance",
+    "year": 1965
+  },
+  {
+    "book_id": 272,
+    "author": "Hermann Hesse",
+    "title": "Lobo Estepario",
+    "genre": "Comedy",
+    "year": 1955
+  },
+  {
+    "book_id": 357,
+    "author": "Hermann Hesse",
+    "title": "Siddharta",
+    "genre": "Mistery",
+    "year": 1974
+  },
+  {
+    "book_id": 198,
+    "author": "H\u00f6lderlin & Kleist & Nietzsche",
+    "title": "Lucha contra el demonio",
+    "genre": "Thriller",
+    "year": 1946
+  },
+  {
+    "book_id": 261,
+    "author": "Homero",
+    "title": "Il\u00edada",
+    "genre": "Science fiction",
+    "year": 1956
+  },
+  {
+    "book_id": 265,
+    "author": "Homero",
+    "title": "La odisea",
+    "genre": "Comedy",
+    "year": 1950
+  },
+  {
+    "book_id": 320,
+    "author": "Honorato de Balzac",
+    "title": "La piel de Zapa",
+    "genre": "Romance",
+    "year": 1910
+  },
+  {
+    "book_id": 72,
+    "author": "Howard Phillips Lovecraft",
+    "title": "Aire fr\u00edo",
+    "genre": "Fiction",
+    "year": 1941
+  },
+  {
+    "book_id": 286,
+    "author": "Howard Phillips Lovecraft",
+    "title": "Celepha\u00efs",
+    "genre": "Comedy",
+    "year": 2012
+  },
+  {
+    "book_id": 115,
+    "author": "Howard Phillips Lovecraft",
+    "title": "Cuentos",
+    "genre": "Thriller",
+    "year": 1943
+  },
+  {
+    "book_id": 90,
+    "author": "Howard Phillips Lovecraft",
+    "title": "El Caos Reptante",
+    "genre": "Comedy",
+    "year": 1959
+  },
+  {
+    "book_id": 81,
+    "author": "Howard Phillips Lovecraft",
+    "title": "El color surgido del espacio",
+    "genre": "Romance",
+    "year": 2003
+  },
+  {
+    "book_id": 71,
+    "author": "Howard Phillips Lovecraft",
+    "title": "El Horror de Dunwich",
+    "genre": "Comedy",
+    "year": 1976
+  },
+  {
+    "book_id": 87,
+    "author": "Howard Phillips Lovecraft",
+    "title": "El Sabueso",
+    "genre": "Fiction",
+    "year": 1943
+  },
+  {
+    "book_id": 107,
+    "author": "Howard Phillips Lovecraft",
+    "title": "En busca de la ciudad del sol poniente",
+    "genre": "Science fiction",
+    "year": 1928
+  },
+  {
+    "book_id": 396,
+    "author": "Howard Phillips Lovecraft",
+    "title": "En la cripta",
+    "genre": "Thriller",
+    "year": 1967
+  },
+  {
+    "book_id": 156,
+    "author": "Howard Phillips Lovecraft",
+    "title": "La Ciudad Sin Nombre",
+    "genre": "Mistery",
+    "year": 1989
+  },
+  {
+    "book_id": 27,
+    "author": "Howard Phillips Lovecraft",
+    "title": "La Declaraci\u00f3n De Randolph Carter",
+    "genre": "Drama",
+    "year": 1903
+  },
+  {
+    "book_id": 490,
+    "author": "Howard Phillips Lovecraft",
+    "title": "La maldici\u00f3n que cay\u00f3 sobre Sarnita",
+    "genre": "Fiction",
+    "year": 2017
+  },
+  {
+    "book_id": 125,
+    "author": "Howard Phillips Lovecraft",
+    "title": "Necronomicon",
+    "genre": "Comedy",
+    "year": 1922
+  },
+  {
+    "book_id": 454,
+    "author": "Howard Phillips Lovecraft",
+    "title": "Polaris",
+    "genre": "Horror",
+    "year": 1975
+  },
+  {
+    "book_id": 219,
+    "author": "Ira Levin",
+    "title": "La semilla del diablo",
+    "genre": "Mistery",
+    "year": 1959
+  },
+  {
+    "book_id": 22,
+    "author": "Ira Levin",
+    "title": "Las pose\u00eddas de Stepford",
+    "genre": "Fantasy",
+    "year": 2001
+  },
+  {
+    "book_id": 374,
+    "author": "Isaac Asimov",
+    "title": "B\u00f3vedas de acero",
+    "genre": "Drama",
+    "year": 1931
+  },
+  {
+    "book_id": 183,
+    "author": "Isaac Asimov",
+    "title": "El Hombre bicentenario",
+    "genre": "Horror",
+    "year": 1913
+  },
+  {
+    "book_id": 485,
+    "author": "Isaac Asimov",
+    "title": "El sol desnudo",
+    "genre": "Romance",
+    "year": 1990
+  },
+  {
+    "book_id": 128,
+    "author": "Isaac Asimov",
+    "title": "Hacia la Fundaci\u00f3n",
+    "genre": "Comedy",
+    "year": 1980
+  },
+  {
+    "book_id": 278,
+    "author": "Isaac Asimov",
+    "title": "Lucky Starr y los anillos de Saturno",
+    "genre": "Fiction",
+    "year": 2002
+  },
+  {
+    "book_id": 384,
+    "author": "Isaac Asimov",
+    "title": "Yo - Robot",
+    "genre": "Thriller",
+    "year": 1926
+  },
+  {
+    "book_id": 205,
+    "author": "Isabel Allende",
+    "title": "Cuentos de Eva Luna",
+    "genre": "Romance",
+    "year": 1990
+  },
+  {
+    "book_id": 294,
+    "author": "Isabel Allende",
+    "title": "De amor y de muerte",
+    "genre": "Fiction",
+    "year": 1967
+  },
+  {
+    "book_id": 252,
+    "author": "Isabel Allende",
+    "title": "El hombre de plata",
+    "genre": "Fiction",
+    "year": 1957
+  },
+  {
+    "book_id": 345,
+    "author": "Isabel Allende",
+    "title": "El plan infinito",
+    "genre": "Comedy",
+    "year": 2003
+  },
+  {
+    "book_id": 330,
+    "author": "Isabel Allende",
+    "title": "El Reino Del Drag\u00f3n De Oro",
+    "genre": "Mistery",
+    "year": 1978
+  },
+  {
+    "book_id": 406,
+    "author": "Isabel Allende",
+    "title": "Hija de la Fortuna",
+    "genre": "Fiction",
+    "year": 1955
+  },
+  {
+    "book_id": 103,
+    "author": "Isabel Allende",
+    "title": "La casa de los esp\u00edritus",
+    "genre": "Romance",
+    "year": 1921
+  },
+  {
+    "book_id": 146,
+    "author": "Isabel Allende",
+    "title": "La ciudad de las bestias",
+    "genre": "Thriller",
+    "year": 1917
+  },
+  {
+    "book_id": 206,
+    "author": "Isabel Allende",
+    "title": "Mi Pa\u00eds Inventado",
+    "genre": "Thriller",
+    "year": 1988
+  },
+  {
+    "book_id": 464,
+    "author": "Isabel Allende",
+    "title": "Paula",
+    "genre": "Science fiction",
+    "year": 1969
+  },
+  {
+    "book_id": 249,
+    "author": "Isabel Allende",
+    "title": "Retrato en sepia",
+    "genre": "Romance",
+    "year": 1995
+  },
+  {
+    "book_id": 121,
+    "author": "Italo Calvino",
+    "title": "El Bar\u00f3n rampante",
+    "genre": "Science fiction",
+    "year": 1975
+  },
+  {
+    "book_id": 130,
+    "author": "J.J. Ben\u00edtez",
+    "title": "Caballo de Troya 1 - Jerusal\u00e9n",
+    "genre": "Action",
+    "year": 1918
+  },
+  {
+    "book_id": 471,
+    "author": "J.J. Ben\u00edtez",
+    "title": "Caballo de Troya 2 - Masada",
+    "genre": "Science fiction",
+    "year": 1918
+  },
+  {
+    "book_id": 168,
+    "author": "J.J. Ben\u00edtez",
+    "title": "Caballo de Troya 3 - Said\u00e1n",
+    "genre": "Romance",
+    "year": 1974
+  },
+  {
+    "book_id": 37,
+    "author": "J.J. Ben\u00edtez",
+    "title": "Caballo de Troya 4 - Nazaret",
+    "genre": "Fantasy",
+    "year": 1904
+  },
+  {
+    "book_id": 419,
+    "author": "J.J. Ben\u00edtez",
+    "title": "Caballo de Troya 5 - Ces\u00e1rea",
+    "genre": "Comedy",
+    "year": 1982
+  },
+  {
+    "book_id": 136,
+    "author": "J.J. Benitez",
+    "title": "La Rebeli\u00f3n de Lucifer",
+    "genre": "Fantasy",
+    "year": 1984
+  },
+  {
+    "book_id": 241,
+    "author": "J.J. Ben\u00edtez",
+    "title": "Los astronautas de Yav\u00e9",
+    "genre": "Comedy",
+    "year": 1917
+  },
+  {
+    "book_id": 5,
+    "author": "J.K. Rowling",
+    "title": "Harry Potter y el C\u00e1liz de fuego",
+    "genre": "Thriller",
+    "year": 2021
+  },
+  {
+    "book_id": 397,
+    "author": "J.K. Rowling",
+    "title": "Harry Potter y el Prisionero de Azkaban",
+    "genre": "Fantasy",
+    "year": 1936
+  },
+  {
+    "book_id": 288,
+    "author": "J.K. Rowling",
+    "title": "Harry Potter y la C\u00e1mara secreta",
+    "genre": "Science fiction",
+    "year": 1994
+  },
+  {
+    "book_id": 1,
+    "author": "J.K. Rowling",
+    "title": "Harry Potter y la Piedra filosofal",
+    "genre": "Horror",
+    "year": 1955
+  },
+  {
+    "book_id": 391,
+    "author": "J.M. Barrie",
+    "title": "Peter Pan",
+    "genre": "Fiction",
+    "year": 1992
+  },
+  {
+    "book_id": 237,
+    "author": "J.R.R. Tolkien",
+    "title": "El Se\u00f1or de los Anillos - El Hobbit",
+    "genre": "Horror",
+    "year": 1984
+  },
+  {
+    "book_id": 280,
+    "author": "J.R.R. Tolkien",
+    "title": "El Se\u00f1or de los Anillos - El Retorno del Rey I",
+    "genre": "Fiction",
+    "year": 1992
+  },
+  {
+    "book_id": 336,
+    "author": "J.R.R. Tolkien",
+    "title": "El Se\u00f1or de los Anillos - El Retorno del Rey II",
+    "genre": "Fantasy",
+    "year": 1930
+  },
+  {
+    "book_id": 300,
+    "author": "J.R.R. Tolkien",
+    "title": "El Se\u00f1or de los Anillos - El Silmarillion",
+    "genre": "Drama",
+    "year": 1923
+  },
+  {
+    "book_id": 110,
+    "author": "J.R.R. Tolkien",
+    "title": "El Se\u00f1or de los Anillos - La Comunidad del anillo I",
+    "genre": "Drama",
+    "year": 1956
+  },
+  {
+    "book_id": 292,
+    "author": "J.R.R. Tolkien",
+    "title": "El Se\u00f1or de los Anillos - La Comunidad del anillo II",
+    "genre": "Fantasy",
+    "year": 2008
+  },
+  {
+    "book_id": 97,
+    "author": "J.R.R. Tolkien",
+    "title": "El Se\u00f1or de los Anillos - Las Dos Torres I",
+    "genre": "Thriller",
+    "year": 1920
+  },
+  {
+    "book_id": 176,
+    "author": "J.R.R. Tolkien",
+    "title": "El Se\u00f1or de los Anillos - Las Dos Torres II",
+    "genre": "Fantasy",
+    "year": 2013
+  },
+  {
+    "book_id": 467,
+    "author": "J.R.R. Tolkien",
+    "title": "La historia de los Silmarils",
+    "genre": "Thriller",
+    "year": 2000
+  },
+  {
+    "book_id": 200,
+    "author": "Jacqueline Mirande",
+    "title": "Arturo y los caballeros",
+    "genre": "Thriller",
+    "year": 1938
+  },
+  {
+    "book_id": 442,
+    "author": "Jaime Alonso Flores Ch\u00e1vez",
+    "title": "El \u00e1ngel y el Apocalipsis parte I",
+    "genre": "Mistery",
+    "year": 1981
+  },
+  {
+    "book_id": 366,
+    "author": "Jaime Alonso Flores Ch\u00e1vez",
+    "title": "El \u00e1ngel y el Apocalipsis parte II",
+    "genre": "Action",
+    "year": 1987
+  },
+  {
+    "book_id": 58,
+    "author": "James Blish",
+    "title": "Gigantes en la tierra",
+    "genre": "Mistery",
+    "year": 1976
+  },
+  {
+    "book_id": 188,
+    "author": "James Joyce",
+    "title": "Ulises",
+    "genre": "Romance",
+    "year": 1975
+  }
+]
