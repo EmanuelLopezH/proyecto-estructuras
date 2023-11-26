@@ -3,7 +3,8 @@
   padding: 0;
   box-sizing: border-box;
 }
-h1 {
+h1,
+h4 {
   color: white;
   text-align: center;
 }
@@ -21,10 +22,113 @@ h1 {
   height: 500px;
   /* background: linear-gradient(180deg, #cdbfbf 0%, #922626 100%); */
   color: #000;
-  border-radius: 5px 15px 15px 5px;
+  border-radius: 5px 15px 15px 0px;
 }
 .cover-page h1 {
-  color: #000;
+  color: #fff;
+  overflow-wrap: break-word;
+  word-break: break-word;
   font-size: 50px;
   margin-bottom: 80px;
+}
+.container {
+  position: relative;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100%;
+  padding: 20px;
+}
+.cover-page {
+  position: absolute;
+  box-shadow: 15px 15px 30px rgba(0, 0, 0, 0.7),
+    8px 8px 0 rgba(255, 255, 255, 0.7);
+  padding: 1.5rem 1.5rem 1.5rem 2.5rem;
+}
+
+.cover-page::after {
+  content: "";
+  position: absolute;
+  bottom: -8px;
+  left: 0;
+  transform: rotate(180deg);
+  width: 0;
+  height: 0;
+  border-right: 4px solid transparent;
+  border-top: 4px solid transparent;
+  border-left: 4px solid rgba(255, 255, 255, 0.7);
+  border-bottom: 4px solid rgba(255, 255, 255, 0.7);
+  z-index: -1;
+}
+
+.cover-page::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0.75rem;
+  width: 2px;
+  height: 100%;
+  box-shadow: 1px 0 3px rgba(255, 255, 255, 0.2);
+}
+
+.cover-popup {
+  width: 100vw;
+  height: 100vh;
+  position: fixed;
+  top: 0;
+  left: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  padding: 20px;
+  background: rgba(0, 0, 0, 0.25);
+  backdrop-filter: blur(5px);
+  animation: fadeIn 0.25s ease-in-out;
+  z-index: 1000;
+}
+
+.cover-container {
+  width: 300px;
+  height: 500px;
+}
+
+.cover-close-btn {
+  position: fixed;
+  top: 2rem;
+  right: 2rem;
+  font-size: 1.5rem;
+  padding: 0.25rem;
+  border-radius: 50%;
+  background: #fff;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes scaleUp {
+  0% {
+    transform: scale(0.5);
+  }
+  60% {
+    transform: scale(1.1);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
+.container {
+  animation: scaleUp 0.4s ease-in-out;
 }
