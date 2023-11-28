@@ -94,7 +94,7 @@ export default function LoansPage() {
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify(parsedCredentials),
     }).then((response) => response.json().then((data) => console.log(data)));
-
+    console.log("Success loan");
     setSelectedEmployee(null);
     setSelectedBook(null);
     setCredentials({
@@ -123,12 +123,11 @@ export default function LoansPage() {
           onChange={handdleEmployeeChange}
           required
           styles={{
-            control: (provided, state) => ({
+            control: (provided) => ({
               ...provided,
               backgroundColor: "white",
               color: "white",
               border: "none",
-              // Agrega aquí los estilos adicionales que desees aplicar al control
             }),
             menu: (provided) => ({
               ...provided,
@@ -158,12 +157,11 @@ export default function LoansPage() {
           onChange={handdleBookChange}
           required
           styles={{
-            control: (provided, state) => ({
+            control: (provided) => ({
               ...provided,
               backgroundColor: "white",
               color: "white",
               border: "none",
-              // Agrega aquí los estilos adicionales que desees aplicar al control
             }),
             menu: (provided) => ({
               ...provided,
@@ -194,10 +192,12 @@ export default function LoansPage() {
           required
         />
         <p>Due date</p>
-        <p id="suggestion">
-          Para este libro es recomendable un plazo máximo de
-          {" " + selectedBook.suggestion} días
-        </p>
+        {selectedBook && (
+          <p id="suggestion">
+            Para este libro es recomendable un plazo máximo de{" "}
+            {selectedBook?.suggestion ? selectedBook?.suggestion : "0"} días
+          </p>
+        )}
         <input
           className="input-date"
           type="datetime-local"

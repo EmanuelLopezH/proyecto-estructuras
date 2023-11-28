@@ -25,12 +25,30 @@ export default function Employees() {
       });
     });
   }, []);
-  console.log(employees);
+  const pickRandomEmployees = (employees, n) => {
+    // ! Important function
+    return shuffled.slice(0, n);
+  };
+  //console.log(pickRandomEmployees(employees, 5));
   return (
     <div className="main">
       <NavBar></NavBar>
-      <div className="images">
-        <Image src={randomImage} alt="" width={"200"} height={"200"}></Image>
+      <div className="employees">
+        {employees.slice(0, 8).map((employee) => {
+          const randomImage = Math.floor(Math.random() * images.length);
+          const shuffled = employees.sort(() => 0.7 - Math.random());
+          return (
+            <div key={employee.id}>
+              <Image
+                src={images[randomImage]}
+                alt=""
+                width={"200"}
+                height={"200"}
+              ></Image>
+              <p>{employee.name}</p>
+            </div>
+          );
+        })}
       </div>
 
       <div className="info">
