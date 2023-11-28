@@ -7,18 +7,18 @@
 .table {
   width: 500px;
 }
-table {
+.table table {
   color: #fff;
   width: 100%;
   border-collapse: collapse;
   height: 100%;
 }
-td {
+.table td {
   padding: 10px;
   text-align: center;
   border: 1px solid #ccc;
 }
-th {
+.table th {
   padding: 10px;
   text-align: center;
   color: white;

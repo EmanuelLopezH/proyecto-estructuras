@@ -1,20 +1,46 @@
+"use client";
 import NavBar from "../components/NavBar";
 import TableEmployees from "../components/TableEmployees";
-import EmployeesData from "@/app/db/employees.json";
+// import EmployeesData from "@/app/db/employees.json";
+import { useState, useEffect } from "react";
 import "./page.css";
+import Image from "next/image";
 
-export default function employees() {
+export default function Employees() {
+  const images = [
+    "/Style1.svg",
+    "/Style2.svg",
+    "/Style3.svg",
+    "/Style4.svg",
+    "/Style5.svg",
+    "/Style6.svg",
+  ];
+  const randomImage = Math.floor(Math.random() * images.length);
+  const [employees, setEmployees] = useState([]);
+
+  useEffect(() => {
+    fetch("http://127.0.0.1:8000/employee").then((response) => {
+      response.json().then((data) => {
+        setEmployees(data);
+      });
+    });
+  }, []);
+  console.log(employees);
   return (
     <div className="main">
       <NavBar></NavBar>
+      <div className="images">
+        <Image src={randomImage} alt="" width={"200"} height={"200"}></Image>
+      </div>
+
       <div className="info">
         <h1>Employees</h1>
         <br />
-        <TableEmployees EmployeesData={EmployeesData} />
+        <TableEmployees EmployeesData={employees} />
       </div>
       <div className="buttons">
-        <button className="button">Hire</button>
-        <button className="button">Fire</button>
+        <button className="btn">Hire</button>
+        <button className="btn">Fire</button>
       </div>
     </div>
   );

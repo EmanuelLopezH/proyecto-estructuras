@@ -7,7 +7,7 @@ export function Shelf({ books, numBooks = 21, shelf }) {
   };
 
   return (
-    <div className="table">
+    <div className="table-books">
       {books
         .slice((shelf - 1) * numBooks, shelf * numBooks)
         .map((book, idx) => {

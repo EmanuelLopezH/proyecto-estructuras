@@ -2,14 +2,12 @@
 
 import "./page.css";
 
-import { useRef, useState } from "react";
+import { useRef, useState, useEffect } from "react";
 
 import Bookshelves from "../components/Bookshelves";
 import { Lobster } from "next/font/google";
 import NavBar from "../components/NavBar";
 import { Tilt } from "react-tilt";
-import books from "@/app/db/books.json";
-import gsap from "gsap";
 
 const lobster = Lobster({
   style: ["normal"],
@@ -21,6 +19,15 @@ export default function Books({}) {
   const tiltRef = useRef(null);
   const titleRef = useRef(null);
   const authorRef = useRef(null);
+  const [books, setBooks] = useState([]);
+
+  useEffect(() => {
+    fetch("http://127.0.0.1:8000/book").then((response) => {
+      response.json().then((data) => {
+        setBooks(data);
+      });
+    });
+  }, []);
 
   const [isCoverOpen, setIsCoverOpen] = useState(false);
 

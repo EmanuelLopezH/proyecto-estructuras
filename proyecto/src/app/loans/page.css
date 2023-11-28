@@ -3,10 +3,7 @@
   padding: 0;
   box-sizing: border-box;
 }
-body {
-  font-family: Arial, sans-serif;
-}
-.form {
+.form-loan {
   margin: auto;
   width: 700px;
   min-height: 50vh;
@@ -19,25 +16,17 @@ body {
   width: 50%;
   margin: 20px;
 }
-form p {
+.form-loan p {
   font-size: 1.5rem;
   margin-bottom: 10px;
 }
-select {
-  width: 100%;
-  padding: 10px;
-  border-radius: 5px;
-  border: 1px solid #ccc;
-}
-option {
-  padding: 10px;
-}
 h1 {
+  font-size: 2rem;
   color: white;
-  margin: auto;
+  margin: 20px 0 20px 0;
+  text-align: center;
 }
-
-form {
+.form-loan {
   display: flex;
   flex-direction: column;
   color: white;
@@ -52,23 +41,85 @@ input[type="text"] {
   margin: 5px 0 20px 0;
   padding: 10px;
   border-radius: 5px;
-  border: 1px solid #ccc;
 }
-input[type="datetime-local"] {
+.btn-loans {
+  font-size: 1.5rem;
+  color: #f5f5f5;
+  background-color: rgba(0, 0, 0, 0.25);
+  width: 100px;
+  margin: 10px;
+  padding: 10px;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+}
+.btn-loans:hover {
+  background-color: #fff;
+  color: #000;
+}
+#suggestion {
+  font-size: 1rem;
+}
+.input-date {
   width: 50%;
   margin: 5px 0 20px 0;
   padding: 10px;
   border-radius: 5px;
-  border: 1px solid #ccc;
+  color: black;
+  font-size: 1.3rem;
+  text-align: center;
+  cursor: not-allowed;
 }
-input[type="button"] {
-  width: 100px;
+.return-book {
+  margin: 0 auto;
+  width: 700px;
+  min-height: 50vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.return-book h2 {
+  font-size: 2rem;
+  color: white;
+  margin: 20px 0 20px 0;
+  text-align: center;
+}
+.return-book p {
+  color: white;
+  font-size: 1.2rem;
+  margin-bottom: 10px;
+}
+.input-date-return {
+  width: 50%;
   margin: 5px 0 20px 0;
   padding: 10px;
   border-radius: 5px;
+  color: black;
+  font-size: 1.3rem;
+  text-align: center;
+}
+.form-return {
+  margin: auto;
+  width: 700px;
+  min-height: 50vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.btn-return {
+  font-size: 1.2rem;
+  color: #f5f5f5;
+  background-color: rgba(0, 0, 0, 0.25);
+  width: 80px;
+  margin: 10px;
+  padding: 10px;
+  border-radius: 5px;
   border: none;
-  background-color: rgb(100, 64, 13);
-  color: white;
-  font-size: 1.5rem;
   cursor: pointer;
+}
+.btn-return:hover {
+  background-color: #fff;
+  color: #000;
 }

@@ -2,37 +2,65 @@
 
 import "./page.css";
 
+import { useEffect, useState } from "react";
+
 import NavBar from "../components/NavBar";
 import Select from "react-select";
-import books from "@/app/db/books.json";
-import employees from "@/app/db/employees.json";
-import { useState } from "react";
+
+// import books from "@/app/db/books.json";
+// import employees from "@/app/db/employees.json";
 
 export default function LoansPage() {
+  const [employees, setEmployees] = useState([]);
+  const [books, setBooks] = useState([]);
   const [selectEmployee, setSelectedEmployee] = useState();
   const [selectedBook, setSelectedBook] = useState();
-
   const generateId = () => {
     return Math.random().toString(36).substr(2, 9);
   };
-  const employeeOptions = employees.map((employee) => ({
-    value: employee.id,
-    label: employee.name,
-  }));
-
-  const bookOptions = books.map((book) => ({
-    value: book.book_id,
-    label: book.title,
-  }));
-
   const [credentials, setCredentials] = useState({
     id: `${generateId()}`,
     employee_id: "",
     user_name: "",
     book_id: "",
-    loan_date: "",
+    loan_date: `${new Date().toISOString()}`,
+    devolution_date: `${new Date().toISOString()}`,
+    return_date: `${new Date().toISOString()}`,
+    week_day: "String",
   });
+  useEffect(() => {
+    fetch("http://127.0.0.1:8000/employee")
+      .then((response) => response.json())
+      .then((data) => setEmployees(data))
+      .catch((error) => console.error("Error:", error));
+  }, []);
+  useEffect(() => {
+    fetch("http://127.0.0.1:8000/book")
+      .then((response) => response.json())
+      .then((data) => setBooks(data));
+  }, []);
 
+  // useEffect(() => {
+  //   fetch("http://127.0.0.1:8000/employee")
+  //     .then((response) => response.json())
+  //     .then((data) => {
+  //       setEmployees(data);
+  //       fetch("http://127.0.0.1:8000/book")
+  //         .then((response) => response.json())
+  //         .then((data) => setBooks(data));
+  //     })
+  //     .catch((error) => console.error("Error:", error));
+  // }, []);
+
+  const employeeOptions = employees.map((employee) => ({
+    value: employee.id,
+    label: employee.name,
+  }));
+  const bookOptions = books.map((book) => ({
+    value: book.book_id,
+    label: book.title,
+    suggestion: book.Suggestion,
+  }));
   const handdleEmployeeChange = (e) => {
     setSelectedEmployee(e);
     setCredentials({
@@ -40,7 +68,6 @@ export default function LoansPage() {
       employee_id: e.value,
     });
   };
-
   const handdleBookChange = (e) => {
     setSelectedBook(e);
     setCredentials({
@@ -48,7 +75,6 @@ export default function LoansPage() {
       book_id: e.value,
     });
   };
-
   const handdleChange = (e) => {
     setCredentials({
       ...credentials,
@@ -60,17 +86,34 @@ export default function LoansPage() {
 
     const parsedCredentials = {
       ...credentials,
-      loan_date: credentials.loan_date.replace("T", " ") + ":00",
+      devolution_date: credentials.devolution_date + ":00.000Z",
     };
 
-    console.log(parsedCredentials); // ! Remove this line
+    fetch("http://127.0.0.1:8000/loan", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify(parsedCredentials),
+    }).then((response) => response.json().then((data) => console.log(data)));
+
+    setSelectedEmployee(null);
+    setSelectedBook(null);
+    setCredentials({
+      id: `${generateId()}`,
+      employee_id: "",
+      user_name: "",
+      book_id: "",
+      devolution_date: "",
+      loan_date: `${new Date().toISOString()}`,
+      return_date: `${new Date().toISOString()}`,
+      week_day: "String",
+    });
   };
 
   return (
     <div>
       <NavBar></NavBar>
       <h1>Book Loans</h1>
-      <form className="form" onSubmit={handdleSubmit}>
+      <form className="form-loan" onSubmit={handdleSubmit}>
         <p>Employee</p>
         <Select
           className="select"
@@ -80,15 +123,29 @@ export default function LoansPage() {
           onChange={handdleEmployeeChange}
           required
           styles={{
+            control: (provided, state) => ({
+              ...provided,
+              backgroundColor: "white",
+              color: "white",
+              border: "none",
+              // Agrega aquí los estilos adicionales que desees aplicar al control
+            }),
             menu: (provided) => ({
               ...provided,
-              backgroundColor: "black",
+              backgroundColor: "rgba(0, 0, 0, 0.8)",
+              color: "white",
             }),
             option: (provided, state) => ({
               ...provided,
               ":hover": {
-                backgroundColor: "green",
+                backgroundColor: "rgb(100, 64, 13)",
               },
+              ...(state.isSelected && {
+                backgroundColor: "rgb(100, 64, 13)",
+              }),
+              ...(state.theme && {
+                backgroundColor: "rgb(0, 0, 0, 0.6)",
+              }),
             }),
           }}
         />
@@ -100,6 +157,32 @@ export default function LoansPage() {
           isSearchable={true}
           onChange={handdleBookChange}
           required
+          styles={{
+            control: (provided, state) => ({
+              ...provided,
+              backgroundColor: "white",
+              color: "white",
+              border: "none",
+              // Agrega aquí los estilos adicionales que desees aplicar al control
+            }),
+            menu: (provided) => ({
+              ...provided,
+              backgroundColor: "rgba(0, 0, 0, 0.8)",
+              color: "white",
+            }),
+            option: (provided, state) => ({
+              ...provided,
+              ":hover": {
+                backgroundColor: "rgb(100, 64, 13)",
+              },
+              ...(state.isSelected && {
+                backgroundColor: "rgb(100, 64, 13)",
+              }),
+              ...(state.theme && {
+                backgroundColor: "rgb(0, 0, 0, 0.6)",
+              }),
+            }),
+          }}
         ></Select>
         <p>Name user</p>
         <input
@@ -111,14 +194,19 @@ export default function LoansPage() {
           required
         />
         <p>Due date</p>
+        <p id="suggestion">
+          Para este libro es recomendable un plazo máximo de
+          {" " + selectedBook.suggestion} días
+        </p>
         <input
+          className="input-date"
           type="datetime-local"
-          name="loan_date"
-          value={credentials.loan_date}
+          name="devolution_date"
+          value={credentials.devolution_date}
           onChange={handdleChange}
           required
         />
-        <button type="submit" required>
+        <button className="btn-loans" type="submit" required>
           Submit
         </button>
       </form>

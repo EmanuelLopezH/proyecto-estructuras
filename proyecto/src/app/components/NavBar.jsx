@@ -3,10 +3,10 @@ import Link from "next/link";
 import React from "react";
 import "./NavBar.css";
 import { useState } from "react";
+import Image from "next/image";
 import { Lobster } from "next/font/google";
 
 export default function NavBar() {
-  const [imagenFuente, setImagenFuente] = useState("/github.svg");
   const [imagenLogo, setImagenLogo] = useState("/logo.svg");
 
   const cambiarLogo = () => {
@@ -15,23 +15,19 @@ export default function NavBar() {
     );
   };
 
-  const cambiarImagen = () => {
-    setImagenFuente((prevFuente) =>
-      prevFuente === "/github.svg" ? "/github-hoover.svg" : "/github.svg"
-    );
-  };
   return (
     <div>
       <div className="navbar">
         <Link id="links" href={"/"}>
-          <img
+          <Image
+            priority
             src={imagenLogo}
             onMouseOver={cambiarLogo}
             onMouseOut={cambiarLogo}
             width={"120"}
             height={"120"}
             alt=""
-          />
+          ></Image>
         </Link>
         <Link id="links" href={"/employees"}>
           <p className="link">Employees</p>
@@ -42,15 +38,9 @@ export default function NavBar() {
         <Link id="links" href={"/loans"}>
           <p className="link">Loans</p>
         </Link>
-        <img
-          className="logo"
-          width="50"
-          height="50"
-          onMouseOver={cambiarImagen}
-          onMouseOut={cambiarImagen}
-          src={imagenFuente}
-          alt="github"
-        />
+        <Link id="links" href={"/devolutions"}>
+          <p className="link">Devolutions</p>
+        </Link>
       </div>
     </div>
   );
