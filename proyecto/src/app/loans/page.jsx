@@ -29,13 +29,13 @@ export default function LoansPage() {
     week_day: "String",
   });
   useEffect(() => {
-    fetch("http://127.0.0.1:8000/employee")
+    fetch(`${process.env.NEXT_PUBLIC_API_URL}/employee`)
       .then((response) => response.json())
       .then((data) => setEmployees(data))
       .catch((error) => console.error("Error:", error));
   }, []);
   useEffect(() => {
-    fetch("http://127.0.0.1:8000/book")
+    fetch(`${process.env.NEXT_PUBLIC_API_URL}/book`)
       .then((response) => response.json())
       .then((data) => setBooks(data));
   }, []);
@@ -89,7 +89,7 @@ export default function LoansPage() {
       devolution_date: credentials.devolution_date + ":00.000Z",
     };
 
-    fetch("http://127.0.0.1:8000/loan", {
+    fetch(`${process.env.NEXT_PUBLIC_API_URL}/loan`, {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify(parsedCredentials),
