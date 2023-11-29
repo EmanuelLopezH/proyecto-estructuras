@@ -14,15 +14,17 @@ const lobster = Lobster({
   weight: ["400"],
   subsets: ["latin"],
 });
+const api_url = process.env.API_URL;
 
 export default function Books({}) {
+  console.log(api_url);
   const tiltRef = useRef(null);
   const titleRef = useRef(null);
   const authorRef = useRef(null);
   const [books, setBooks] = useState([]);
 
   useEffect(() => {
-    fetch("http://127.0.0.1:8000/book").then((response) => {
+    fetch(`${api_url}/book`).then((response) => {
       response.json().then((data) => {
         setBooks(data);
       });
