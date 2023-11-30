@@ -177,9 +177,8 @@ export default function LoansPage() {
         <p>Due date</p>
         {selectedBook && (
           <p id="suggestion">
-            For this book, a maximum period of{" "}
-            {selectedBook?.suggestion ? selectedBook?.suggestion : "0"} days is
-            recommended
+            For this book, the recommended reading time is:{" "}
+            {selectedBook?.suggestion ? selectedBook?.suggestion : "0"} days
           </p>
         )}
         <input
