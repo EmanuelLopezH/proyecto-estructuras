@@ -13,22 +13,29 @@ export default function Devolutions() {
   const [loansOptions, setLoansOptions] = useState([]);
 
   useEffect(() => {
-    fetch("http://127.0.0.1:8000/loan/return").then((loansResponse) => {
-      loansResponse.json().then((loans) => {
-        fetch("http://127.0.0.1:8000/book").then((booksResponse) => {
-          booksResponse.json().then((books) => {
-            setLoansOptions(
-              loans.map((loan) => ({
-                value: loan.id,
-                label:
-                  loan.user_name + " - " + returnBookTitle(books, loan.book_id),
-                devolution_date: loan.devolution_date,
-              }))
-            );
-          });
+    fetch(`${process.env.NEXT_PUBLIC_API_URL}/loan/return`).then(
+      (loansResponse) => {
+        loansResponse.json().then((loans) => {
+          fetch(`${process.env.NEXT_PUBLIC_API_URL}/book`).then(
+            (booksResponse) => {
+              booksResponse.json().then((books) => {
+                setLoansOptions(
+                  loans.map((loan) => ({
+                    value: loan.id,
+                    label:
+                      loan.user_name +
+                      " - " +
+                      returnBookTitle(books, loan.book_id),
+                    devolution_date: loan.devolution_date,
+                  }))
+                );
+              });
+            }
+          );
         });
-      });
-    }, []);
+      },
+      []
+    );
   });
 
   const returnBookTitle = (books, id) => {
@@ -53,7 +60,7 @@ export default function Devolutions() {
       devolution_date: selectedLoan.devolution_date,
       return_date: e.target[1].value + ":00",
     };
-    fetch(`http://127.0.0.1:8000/loan/${selectedLoan.value}`, {
+    fetch(`${process.env.NEXT_PUBLIC_API_URL}/loan/${selectedLoan.value}`, {
       method: "PUT",
       headers: {
         "Content-Type": "application/json",
