@@ -105,6 +105,7 @@ export default function Employees() {
           className="select"
           options={days}
           onChange={handdleSelectedDay}
+          required
           styles={{
             control: (provided) => ({
               ...provided,
@@ -136,6 +137,7 @@ export default function Employees() {
           className="select"
           options={daily_tasks}
           onChange={handdleSelectedTask}
+          required
           styles={{
             control: (provided) => ({
               ...provided,
