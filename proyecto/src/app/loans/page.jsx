@@ -6,6 +6,7 @@ import { useEffect, useState } from "react";
 
 import NavBar from "../components/NavBar";
 import Select from "react-select";
+import Head from "next/head";
 
 // import books from "@/app/db/books.json";
 // import employees from "@/app/db/employees.json";
@@ -118,6 +119,12 @@ export default function LoansPage() {
 
   return (
     <div>
+      <Head>
+        <meta
+          http-equiv="Content-Security-Policy"
+          content="upgrade-insecure-requests"
+        />
+      </Head>
       <NavBar></NavBar>
       <h1>Book Loans</h1>
       <form className="form-loan" onSubmit={handdleSubmit}>
