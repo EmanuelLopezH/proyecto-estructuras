@@ -34,6 +34,7 @@ export default function Employees() {
   const daily_tasks = [
     { value: "cleaning", label: "cleaning" },
     { value: "inventory", label: "inventory" },
+    { value: "no tasks", label: "No tasks" }
   ];
   const handdleSelectedDay = (e) => {
     setSelectedDay(e);

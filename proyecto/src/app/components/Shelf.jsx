@@ -2,7 +2,7 @@ import "./Shelf.css";
 
 export function Shelf({ books, numBooks = 21, shelf }) {
   const randomColor = () => {
-    const colors = ["#c79868", "#a4303f", "#028090", "#a09be7", "#0D1B2A"];
+    const colors = ["#c79868", "#a4303f", "#028090", "#a09be7", "#351BB7"];
     return colors[Math.floor(Math.random() * colors.length)];
   };
 
