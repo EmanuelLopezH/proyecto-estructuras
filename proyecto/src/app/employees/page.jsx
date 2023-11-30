@@ -19,7 +19,7 @@ export default function Employees() {
   const [employees, setEmployees] = useState([]);
 
   useEffect(() => {
-    fetch("http://127.0.0.1:8000/employee").then((response) => {
+    fetch(`${process.env.NEXT_PUBLIC_API_URL}/employee`).then((response) => {
       response.json().then((data) => {
         setEmployees(data);
       });
