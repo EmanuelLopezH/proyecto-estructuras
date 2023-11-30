@@ -1,9 +1,7 @@
 "use client";
 
 import "./page.css";
-
 import { useRef, useState, useEffect } from "react";
-
 import Bookshelves from "../components/Bookshelves";
 import { Lobster } from "next/font/google";
 import NavBar from "../components/NavBar";

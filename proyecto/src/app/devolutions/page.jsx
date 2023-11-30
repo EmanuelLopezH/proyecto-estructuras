@@ -27,6 +27,7 @@ export default function Devolutions() {
                       " - " +
                       returnBookTitle(books, loan.book_id),
                     devolution_date: loan.devolution_date,
+                    loan_date: loan.loan_date.slice(0, -3),
                   }))
                 );
               });
@@ -45,7 +46,6 @@ export default function Devolutions() {
 
   const handdleLoanChange = (e) => {
     setSelectedLoan(e);
-    console.log(e);
   };
   const handdleChange = (e) => {
     setBodyJson({
@@ -68,7 +68,7 @@ export default function Devolutions() {
       body: JSON.stringify(parsedBody),
     }).then((response) => {
       if (response.ok) {
-        console.log("Book returned successfully");
+        alert("Book returned successfully");
         response.json().then((data) => {
           console.log({ id: selectedLoan.value, id1: loansOptions[0].value });
           setLoansOptions(
@@ -133,6 +133,7 @@ export default function Devolutions() {
           name="return_date"
           onChange={handdleChange}
           value={bodyJson.return_date}
+          min={selectedLoan?.loan_date}
         />
         <button className="btn-return" type="submit">
           Return Book

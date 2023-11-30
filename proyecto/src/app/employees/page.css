@@ -33,15 +33,63 @@
   background-color: #fff;
   color: #000;
 }
-.employees {
+.base-employees {
   display: flex;
   justify-content: center;
   align-items: center;
   flex-direction: row;
+  flex-wrap: wrap;
   min-width: 50vw;
   min-height: 50vh;
-  border: 1px solid #fff;
 }
-.employees p {
+.base-employees p {
   color: white;
+}
+h1 {
+  text-align: center;
+  color: white;
+}
+.total-employees {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+  min-width: 50vw;
+  min-height: 50vh;
+}
+.total-employees p {
+  color: white;
+}
+
+.form-employees {
+  margin: auto;
+  width: 700px;
+  min-height: 50vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-size: 1.3rem;
+  margin-bottom: 10px;
+}
+.select {
+  width: 50%;
+  margin: 20px;
+}
+.btn-empl {
+  font-size: 1.2rem;
+  color: #f5f5f5;
+  background-color: rgba(0, 0, 0, 0.25);
+  width: 100px;
+  margin: 10px;
+  padding: 10px;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+}
+.btn-empl:hover {
+  background-color: #fff;
+  color: #000;
 }

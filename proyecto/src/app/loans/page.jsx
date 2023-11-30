@@ -1,14 +1,9 @@
 "use client";
 
 import "./page.css";
-
 import { useEffect, useState } from "react";
-
 import NavBar from "../components/NavBar";
 import Select from "react-select";
-
-// import books from "@/app/db/books.json";
-// import employees from "@/app/db/employees.json";
 
 export default function LoansPage() {
   const [employees, setEmployees] = useState([]);
@@ -24,11 +19,10 @@ export default function LoansPage() {
     user_name: "",
     book_id: "",
     loan_date: `${new Date().toISOString()}`,
-    devolution_date: `${new Date().toISOString()}`,
+    devolution_date: `${new Date().toISOString().split[0]}`,
     return_date: `${new Date().toISOString()}`,
     week_day: "String",
   });
-
   useEffect(() => {
     fetch(`${process.env.NEXT_PUBLIC_API_URL}/employee`)
       .then((response) => response.json())
@@ -83,7 +77,7 @@ export default function LoansPage() {
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify(parsedCredentials),
     }).then((response) => response.json().then((data) => console.log(data)));
-    console.log("Success loan");
+    alert("Success loan");
     setSelectedEmployee(null);
     setSelectedBook(null);
     setCredentials({
@@ -183,8 +177,9 @@ export default function LoansPage() {
         <p>Due date</p>
         {selectedBook && (
           <p id="suggestion">
-            Para este libro es recomendable un plazo máximo de{" "}
-            {selectedBook?.suggestion ? selectedBook?.suggestion : "0"} días
+            For this book, a maximum period of{" "}
+            {selectedBook?.suggestion ? selectedBook?.suggestion : "0"} days is
+            recommended
           </p>
         )}
         <input
@@ -192,6 +187,10 @@ export default function LoansPage() {
           type="datetime-local"
           name="devolution_date"
           value={credentials.devolution_date}
+          min={
+            new Date().toISOString().split(".")[0] -
+            `:${Math.floor(parseFloat(new Date().getMilliseconds() / 10))}`
+          }
           onChange={handdleChange}
           required
         />
