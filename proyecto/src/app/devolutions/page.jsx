@@ -36,7 +36,7 @@ export default function Devolutions() {
       },
       []
     );
-  });
+  }, []);
 
   const returnBookTitle = (books, id) => {
     const book = books.find((book) => book.book_id === id);
