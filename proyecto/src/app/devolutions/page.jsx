@@ -60,7 +60,7 @@ export default function Devolutions() {
       devolution_date: selectedLoan.devolution_date,
       return_date: e.target[1].value + ":00",
     };
-    fetch(`${process.env.NEXT_PUBLIC_API_URL}/loan/${selectedLoan.value}`, {
+    fetch(`${process.env.NEXT_PUBLIC_API_URL}/loan/${selectedLoan.value}/return`, {
       method: "PUT",
       headers: {
         "Content-Type": "application/json",
