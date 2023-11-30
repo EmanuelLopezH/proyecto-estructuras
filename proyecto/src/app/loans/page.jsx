@@ -28,6 +28,13 @@ export default function LoansPage() {
     return_date: `${new Date().toISOString()}`,
     week_day: "String",
   });
+  // const xhr = new XMLHttpRequest();
+  // xhr.open("GET", `${process.env.NEXT_PUBLIC_API_URL}/book`, true);
+  // xhr.onreadystatechange = function () {
+  //   if (xhr.readyState == 4 && xhr.status == 200)
+  //     console.log(JSON.parse(xhr.responseText));
+  // };
+  // xhr.send();
   useEffect(() => {
     fetch(`${process.env.NEXT_PUBLIC_API_URL}/employee`)
       .then((response) => response.json())
