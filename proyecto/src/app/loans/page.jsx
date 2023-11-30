@@ -6,7 +6,6 @@ import { useEffect, useState } from "react";
 
 import NavBar from "../components/NavBar";
 import Select from "react-select";
-import Head from "next/head";
 
 // import books from "@/app/db/books.json";
 // import employees from "@/app/db/employees.json";
@@ -29,13 +28,7 @@ export default function LoansPage() {
     return_date: `${new Date().toISOString()}`,
     week_day: "String",
   });
-  // const xhr = new XMLHttpRequest();
-  // xhr.open("GET", `${process.env.NEXT_PUBLIC_API_URL}/book`, true);
-  // xhr.onreadystatechange = function () {
-  //   if (xhr.readyState == 4 && xhr.status == 200)
-  //     console.log(JSON.parse(xhr.responseText));
-  // };
-  // xhr.send();
+
   useEffect(() => {
     fetch(`${process.env.NEXT_PUBLIC_API_URL}/employee`)
       .then((response) => response.json())
@@ -47,18 +40,6 @@ export default function LoansPage() {
       .then((response) => response.json())
       .then((data) => setBooks(data));
   }, []);
-
-  // useEffect(() => {
-  //   fetch("http://127.0.0.1:8000/employee")
-  //     .then((response) => response.json())
-  //     .then((data) => {
-  //       setEmployees(data);
-  //       fetch("http://127.0.0.1:8000/book")
-  //         .then((response) => response.json())
-  //         .then((data) => setBooks(data));
-  //     })
-  //     .catch((error) => console.error("Error:", error));
-  // }, []);
 
   const employeeOptions = employees.map((employee) => ({
     value: employee.id,
@@ -119,12 +100,6 @@ export default function LoansPage() {
 
   return (
     <div>
-      <Head>
-        <meta
-          http-equiv="Content-Security-Policy"
-          content="upgrade-insecure-requests"
-        />
-      </Head>
       <NavBar></NavBar>
       <h1>Book Loans</h1>
       <form className="form-loan" onSubmit={handdleSubmit}>
