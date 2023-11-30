@@ -167,8 +167,8 @@ export default function Employees() {
         </button>
       </form>
       {areEmployees && (
-        <>
-          <h1>Base employees</h1>
+        <div className="employees-info">
+          <h2>Base employees</h2>
           <div className="base-employees">
             {shuffled(employees)}
             {employees.slice(0, day.base_employees).map((employee) => {
@@ -186,7 +186,7 @@ export default function Employees() {
               );
             })}
           </div>
-          <h1>Total employees</h1>
+          <h2>Total employees</h2>
           <div className="total-employees">
             {employees.slice(0, day.employees_quantity).map((employee) => {
               const randomImage = Math.floor(Math.random() * images.length);
@@ -203,7 +203,7 @@ export default function Employees() {
               );
             })}
           </div>
-        </>
+        </div>
       )}
     </div>
   );
